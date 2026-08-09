@@ -1,0 +1,68 @@
+# Events
+
+- **Abyssal Baths** (Underdocks): You discover a secluded chamber. Steam rises from bubbling pools of hot liquid that shifts colors with hypnotic rhythm. Barnacled growths hang from the ceiling, dripping viscous fl
+- **Amalgamator** (Act 2 - Hive): CLANG! CLANG!!! You hear the echoes of metal upon metal on the otherside of a wall... As you press your head against the wall to listen in—the wall opens up, revealing a hulking si
+- **Aroma of Chaos** (Act 1 - Overgrowth): Upon trudging through a thick underbrush and making it into a clearing, you're hit with an unplaceable nostalgia. A mix of floral scents, putrid decay, and something else entirely.
+- **Battleworn Dummy** (Act 3 - Glory): As you approach, it begins to rumble and fizzle and lights up brilliantly! “BZZZT! TIME TO TRAIN!!! YOU HAVE 3 TURNS TO DEFEAT ME! CHOOSE A SETTING OR FACE LETHAL HUMILIATION. Here
+- **Brain Leech** (None): *thunk* A sharp pain is felt atop your head and a thought stabs into your mind. “SHARE KNOWLEDGE???” You are unsure how to proceed...
+- **Bugslayer** (Act 2 - Hive): As you're fending off a swarm of aggressive insects you suddenly notice a Mighty Rugged Warrior-Man fighting beside you this whole time! The insects, sensing defeat, scatter. You t
+- **Byrdonis Nest** (Act 1 - Overgrowth): You spot an enormous Shambling Beast chase off an injured Green Byrd. In the alcove the byrd fled from, a single unguarded egg lies abandoned. Your stomach gurgles...
+- **Colorful Philosophers** (Act 2 - Hive): Before you is a rather epic sight. You see 3 different colored statues towering over a dais, having a heated debate over the philosophical implications of color. As you listen in, 
+- **Colossal Flower** (Act 2 - Hive): There is a colossal flower growing atop a mountain of bones. As its color-shifting petals pulsate, you sense there is a Powerful Cluster of Pollen in the center but the undulating 
+- **Crystal Sphere** (None): “I predicted you'd enter...!” A raspy voice calls out as you enter a mystic hut. “Your destiny has brought you here. We must uncover your future and fortunes so you can SAVE US ALL
+- **Darv** (None): ...where did I put... Oh! Come to see my collection!? Take anything from that pile over there, put it to good use!
+- **Dense Vegetation** (Act 1 - Overgrowth): Having taken the wrong path for a good while, you find yourself in a thick jungle of ferns, shrubs, and vines. Especially vines. Exhaustion sets in, and a dark thought comes to min
+- **Doll Room** (None): You enter a hidden room... It's packed with an array of dolls. Each are unique, their expressions ranging from joy to sorrow, their attire spanning centuries and realms beyond your
+- **Doors of Light and Dark** (Underdocks): A doorway existed where none existed moments before... You enter to find two shimmering doorways and a well-dressed doorman. “Finally, a visitor! Please please! Choose a door, any 
+- **Drowning Beacon** (Underdocks): Crossing a dreamscape of rocks and still waters, you emerge to face a sinking lighthouse emitting anti-light. You can bottle up the eerily-glowing water that has pooled here or cli
+- **Endless Conveyor** (Underdocks): You lumber into a shack with a bright but crooked sign that reads: “ENDLESS FEAST - PAY WHAT YOU HUNGER!” Inside, a willowy multi-armed chef is deftly preparing bites of food and p
+- **Field of Man-Sized Holes** (Act 2 - Hive): The sudden sight of a massive field, gouged with large outlines of bodies, stops you in your tracks. One of these outlines matches your own. It's perfect...
+- **Grave of the Forgotten** (Act 3 - Glory): There is a single grave with a roiling blue flame... A prideful warrior died in battle but its soul is restless. It wants to keep fighting, you feel it begging to journey with you.
+- **Hungry for Mushrooms** (Act 3 - Glory): How long has it been since you ate? ...wait, what's that fantastic smell? Following the scent, you reach a cozy campground with all manner of tasty mushrooms being cooked! You don'
+- **Infested Automaton** (Act 2 - Hive): There's a chamber filled with dead robots. A lone automaton still has a faintly glowing core but it's engulfed by a grotesque, organic growth and doesn't respond.
+- **Jungle Maze Adventure** (Act 1 - Overgrowth): In a clearing, you run into a Ragtag Group of Adventurers looking down and gesturing at a gigantic maze. They offer to join forces with you in an Epic Quest to loot the riches of t
+- **Luminous Choir** (Act 1 - Overgrowth): You stumble upon a clearing bathed in an unnatural blue glow. Towering mushrooms pulse with bioluminescence, their caps swollen and glistening. As you approach, the fungi begin to 
+- **Morphic Grove** (Act 1 - Overgrowth): You enter a grove of crystalline trees, and they begin to quiver excitedly! A chorus of hellos and welcomes bombard you as a group of Morphics burst forth from trees. One of the Mo
+- **Neow** (Underdocks): I’ve... remade you.... ...go... ..up.....
+- **Nonupeipe** (Act 3 - Glory): I haven’t had a visitor in a millennia! You’re looking quite drab, here, let’s find something delightful for you to wear.
+- **Orobas** (Act 2 - Hive): Puppet puppet!! All the way up here?! Take these, take take!
+- **Pael** (Act 2 - Hive): A puppet has arrived? Can you check on Father? I’m too tired...
+- **Potion Courier** (None): There is a sour smell in the air and shortly after, you find a Potion Courier collapsed on the ground. Unmoving. Lifeless. Dead!? While their belongings have been ransacked, there 
+- **Punch Off** (Underdocks): Two Punch Constructs are duking it out and you see some treasure in between them... Should you try to nab it?
+- **Ranwid the Elder** (None): You are approached by the oldest person you have ever seen. “We meet once more... it's me, Ranwid!” You do not know this man.
+- **Reflections snoitcelfeR** (Act 3 - Glory): What is this? Something feels wrong here... ...ereh gnorw sleef gnihtemoS ?siht si tahW
+- **Relic Trader** (None): You turn a corner and suddenly, a shadowy figure is just standing there. He pivots to face you. “Welcome! What're ya trading?” The figure inquires as he flares open his cloak to re
+- **Room Full of Cheese** (None): This room is full of cheese!!! You look around to see if there are any traps and above you is... more cheese. The candles in this room appear to be made of cheese. The furniture is
+- **Sapphire Seed** (Act 1 - Overgrowth): You narrowly avoid stepping on a bright, sharp... seed? Its unmistakable color gives away that it's a Sapphire Seed! Weren't these incredible seeds supposed to be extinct!? Legends
+- **Self-Help Book** (None): On the floor lies a tome, “Top 3 Ways to Conquer the Spire” The book is encrusted with blood so you find this manuscript highly suspicious. Will you read it?
+- **Slippery Bridge** (None): While crossing a rickety wooden bridge, there is a sudden torrent of rain. Massive gusts of wind buffet you, threatening to end your journey.
+- **Spiraling Whirlpool** (Underdocks): You happen upon a Massive Spiraling Whirlpool. The water swirls with beautiful precision and its surrounding walls are adorned with spiral patterns. Around and around... around... 
+- **Spirit Grafter** (Act 2 - Hive): Above, a cocoon is shaking and wriggling, about to burst forth! ...it stops wriggling. The cocoon ignites! What is going on? In a flash of light and flame, a Spirit Grafter rushes 
+- **Stone of All Time** (None): A massive boulder sits in the middle of an abandoned courtyard. A plaque reads: Stone of All Time. Its presence, shape, and adornments indicate that this courtyard was built around
+- **Sunken Treasury** (Underdocks): A path leads you into a partially submerged vault. There are 2 chests but only 1 brittle key. The First Chest: Shaking it, you get jingly-jangly noises. Bit of gold. The Second Che
+- **Symbiote** (None): Along your travels, you stumble upon a dark, amorphous polyp. You can sense that it is very old, and very evil. Approach...
+- **Tablet of Truth** (Act 1 - Overgrowth): You defeat a pair of Guardian Kin and make your way into a protected vault. Inside is a tablet with familiar inscriptions. Your intuition tells you that this language can be deciph
+- **Tanx** (Act 3 - Glory): SO WEAK! BUT YOU HAVE POTENTIAL! USE THIS WEAPON!!
+- **Tea Master** (None): You stumble into a dimly lit shack and find yourself immersed in a very peaceful space containing an obsessive variety of tea. The man inside gestures to a selection of teas, each 
+- **Tezcatara** (Act 2 - Hive): Oh, a visitor! Do come in, dear! What can Tezcatara do for you?
+- **The Architect** (None): 
+- **The Future of Potions?** (None): You feel a faint rumbling as you round the corner to discover a gigantic spinning apparatus! It has several slots which appear to convert liquids into a highly compressed digestibl
+- **The Lantern Key** (Act 2 - Hive): You come upon a faintly glowing key and go to pick it up. “Been looking all over for that key! Now if you don't mind...” This person looks like bad news but maybe it's not good to 
+- **The Legends Were True** (None): Entering into a pitch dark chamber, a sudden light pierces the darkness from above, just as the door slams behind you. Illuminated before you appears to be a podium with a map on i
+- **The Lost Wisp** (Act 2 - Hive): In the distance is an odd sight. Mounds and mounds of deceased insects, surrounding what looks to be a small glowing mote. It seems to be an effective attractant for all manner of 
+- **The Merchant???** (None): Placeholder
+- **The Round Tea Party** (Act 3 - Glory): You find an invitation for a “Sir Galalot” to a tea party and decide to show up in his stead. Upon entering an unassuming rotunda, you find yourself in the midst of commanders, gen
+- **The Sunken Statue** (Underdocks): You spot an aged statue half submerged in a pond; its hands gently rest atop a stone sword. Something is also glittering at the bottom of the pond. Votive offerings perhaps? You co
+- **The Trial** (Act 3 - Glory): You join a line of people entering a massive building. As you pass under a golden archway, horns blare, confetti explodes, and streamers glide down from the ceiling! “Entrant , you
+- **This or That?** (None): Arms suddenly jut out from a nearby hole, clutching a suspicious bag of riches and a clearly cursed relic. “This... or That?” a scratched-up voice whispers from below.
+- **Tinker Time** (Act 3 - Glory): Navigating through an endless sea of corpses, you find a mad scientist scavenging for various scraps. “Yes. Hi, hello! You look like a capable fighter... I need a tester for my nex
+- **Trash Heap** (Underdocks): You discover a towering pile of scrapped weapons, discarded trinkets, and other oddities. The massive pile shifts and rumbles, as if growing from within... If you scavenge from the
+- **Unrest Site** (Act 1 - Overgrowth): You find a secluded Rest Site and start a fire to get some rest. Or so you thought. Once the fire is started, it begins to swell, reaching not upwards but sideways towards a grove 
+- **Vakuu** (Act 3 - Glory): Give yourself to me and you will be feared as much as I.
+- **War Historian, Repy** (None): An academic is trapped in a hanging cage next to a treasure chest. The academic is muttering about “One-Time-Use Keys” while furiously writing something. Looks like you can unlock 
+- **Waterlogged Scriptorium** (Underdocks): Navigating the murky passages, you stumble upon a withered figure working a small shop. The multitude of shelves are stuffed full of damp scrolls and parchment. Noticing a patron h
+- **Welcome to Wongo's** (None): “Welcome to Wongo's. We have what you want at Wongtastic prices.” says the least enthusiastic clerk you have ever met. “Peruse our wares and enjoy your time at Wongo's,” they conti
+- **Wellspring** (Act 1 - Overgrowth): You trace a low rumble to its source and find yourself captivated by a tranquil wellspring. The water is an emerald green with clusters of glowing motes. It looks inviting. What ca
+- **Whispering Hollow** (Act 1 - Overgrowth): Making your way through a hollow of dead trees you happen upon a single bone-white tree. Clay baubles hang off its branches, which curve inward like protective ribs. Such a creepy 
+- **Wood Carvings** (Act 1 - Overgrowth): You open a dusty box to find a set of 3 elaborate wood carvings: A bird, snake, and... a torus? A nearby pedestal has indentations which match the bottom of the carvings. Which car
+- **Zen Weaver** (Act 2 - Hive): You walk through a spider web and PANIC! But then, a wave of calm washes over you... “Calm down. I need you to quit fussing up my web.” How did you calm down so quickly? An itsy bi

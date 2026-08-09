@@ -10,6 +10,7 @@
 - `GameStateService.cs` — 基于 STS2 AI Agent mod 提取研究的状态服务源码（C# / Godot），用于理解游戏内部状态结构。
 - `sky_probe.mjs` / `work/cua-*.mjs` — 对 Codex 桌面版内置 CUA / Chrome 自动化能力的探测脚本（依赖本地内部路径，仅本机研究用）。
 - `sts2_*.png` — 爬塔过程中的屏幕截图样本（已由 `.gitignore` 排除，不入库）。
+- `skills/sts2-climber/` — Codex 的 `sts2-climber` skill 完整拷贝：爬塔知识库（卡牌 / 敌人 / 遗物 / 事件 / 路线与选卡策略）与实战操作手册，含历次爬塔复盘教训。
 
 ## 用法
 
@@ -28,4 +29,3 @@ python distill_sts2.py
 
 - 本仓库是个人爬塔工作流的工具与研究笔记，部分脚本依赖本机绝对路径与本地 mod 环境，不保证开箱即用。
 - `GameStateService.cs` 与 `sky_probe.mjs` 涉及 mod 与桌面客户端内部实现，仅供研究，请遵守相关软件的许可与使用条款。
-

@@ -1,0 +1,65 @@
+# Potions
+
+- **Ashwater** (Uncommon, ironclad): Exhaust any number of cards in your Hand.
+- **Attack Potion** (Common, shared): Choose 1 of 3 random Attack cards to add into your Hand. It's free to play this turn.
+- **Beetle Juice** (Rare, shared): Enemy's attacks deal 30% less damage for the next 4 turns.
+- **Blessing of the Forge** (Uncommon, shared): Upgrade all cards in your Hand for the rest of combat.
+- **Block Potion** (Common, shared): Gain 12 Block.
+- **Blood Potion** (Common, ironclad): Heal for 20% of your Max HP.
+- **Bone Brew** (Uncommon, necrobinder): Summon 15.
+- **Bottled Potential** (Rare, shared): Shuffle ALL your cards into your Draw Pile. Draw 5 cards.
+- **Clarity Extract** (Uncommon, shared): Draw 1 card. At the start of your next 3 turns, draw 1 additional card.
+- **Colorless Potion** (Common, shared): Choose 1 of 3 random Colorless cards to add into your Hand. It's free to play this turn.
+- **Cosmic Concoction** (Rare, regent): Add 3 Upgraded Colorless cards into your Hand.
+- **Cunning Potion** (Uncommon, silent): Add 3 Upgraded Shivs into your Hand.
+- **Cure All** (Uncommon, shared): Gain [energy:1]. Draw 2 cards.
+- **Dexterity Potion** (Common, shared): Gain 2 Dexterity.
+- **Distilled Chaos** (Rare, shared): Play the top 3 cards of your Draw Pile.
+- **Droplet of Precognition** (Rare, shared): Choose a card in your Draw Pile and add it into your Hand.
+- **Duplicator** (Uncommon, shared): This turn, your next card is played an extra time.
+- **Energy Potion** (Common, shared): Gain [energy:2].
+- **Entropic Brew** (Rare, shared): Fill all your empty potion slots with random potions.
+- **Essence of Darkness** (Rare, defect): Channel a Dark for each of your Orb Slots.
+- **Explosive Ampoule** (Common, shared): Deal 10 damage to ALL enemies.
+- **Fairy in a Bottle** (Rare, shared): When you would die, instead this potion is discarded and you heal to 30% of your Max HP.
+- **Fire Potion** (Common, shared): Deal 20 damage.
+- **Flex Potion** (Common, shared): Gain 5 Strength. At the end of your turn, lose 5 Strength.
+- **Focus Potion** (Common, defect): Gain 2 Focus.
+- **Fortifier** (Uncommon, shared): Triple your Block.
+- **Foul Potion** (Event, event): Deal 12 damage to EVERYONE. Can be thrown at the Merchant for 100 Gold instead.
+- **Fruit Juice** (Rare, shared): Gain 5 Max HP.
+- **Fysh Oil** (Uncommon, shared): Gain 1 Strength and 1 Dexterity.
+- **Gambler's Brew** (Uncommon, shared): Discard any number of cards, then draw that many.
+- **Ghost in a Jar** (Rare, silent): Gain 1 Intangible.
+- **Gigantification Potion** (Rare, shared): The next Attack you play deals triple damage.
+- **Glowwater Potion** (Event, event): Exhaust your Hand. Draw 10 cards.
+- **Heart of Iron** (Uncommon, shared): Gain 7 Plating.
+- **King's Courage** (Uncommon, regent): Forge 15.
+- **Liquid Bronze** (Uncommon, shared): Gain 3 Thorns.
+- **Liquid Memories** (Rare, shared): Put a card from your Discard Pile into your Hand. It costs 0 [energy:1] this turn.
+- **Lucky Tonic** (Rare, shared): Gain 1 Buffer.
+- **Mazaleth's Gift** (Rare, shared): Gain 1 Ritual.
+- **Orobic Acid** (Rare, shared): Add a random Attack, Skill, and Power into your Hand. They're free to play this turn.
+- **Poison Potion** (Common, silent): Apply 6 Poison.
+- **Pot of Ghouls** (Rare, necrobinder): Add 2 Souls into your Hand.
+- **Potion of Binding** (Uncommon, shared): Apply 1 Weak and 1 Vulnerable to ALL enemies.
+- **Potion of Capacity** (Uncommon, defect): Gain 2 Orb Slots.
+- **Potion of Doom** (Common, necrobinder): Apply 33 Doom.
+- **Potion-Shaped Rock** (Token, shared): Deal 15 damage.
+- **Powdered Demise** (Uncommon, shared): Enemy loses 9 HP at the end of each of its turns.
+- **Power Potion** (Common, shared): Choose 1 of 3 random Power cards to add into your Hand. It's free to play this turn.
+- **Radiant Tincture** (Uncommon, shared): Gain [energy:1]. Gain an additional [energy:1] at the start of your next 3 turns.
+- **Regen Potion** (Uncommon, shared): Gain 5 Regen.
+- **Shackling Potion** (Rare, shared): ALL enemies lose 7 Strength this turn.
+- **Ship in a Bottle** (Rare, shared): Gain 10 Block. Next turn, gain 10 Block.
+- **Skill Potion** (Common, shared): Choose 1 of 3 random Skill cards to add into your Hand. It's free to play this turn.
+- **Snecko Oil** (Rare, shared): Draw 7 cards. Randomize the cost of cards in your Hand this turn.
+- **Soldier's Stew** (Rare, ironclad): All cards containing Strike gain 1 Replay this combat.
+- **Speed Potion** (Common, shared): Gain 5 Dexterity. At the end of your turn, lose 5 Dexterity.
+- **Stable Serum** (Uncommon, shared): Retain your Hand for 2 turns.
+- **Star Potion** (Common, regent): Gain [star:3].
+- **Strength Potion** (Common, shared): Gain 2 Strength.
+- **Swift Potion** (Common, shared): Draw 3 cards.
+- **Touch of Insanity** (Uncommon, shared): Choose a card in your Hand. It is free to play this combat.
+- **Vulnerable Potion** (Common, shared): Apply 3 Vulnerable.
+- **Weak Potion** (Common, shared): Apply 3 Weak.

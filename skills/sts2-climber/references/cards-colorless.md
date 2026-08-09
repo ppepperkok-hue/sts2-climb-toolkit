@@ -1,0 +1,66 @@
+# Colorless Cards
+
+- **Alchemize** (1费, Skill, Rare): Procure a random potion.
+- **Anointed** (1费, Skill, Rare): Put every Rare card from your Draw Pile into your Hand.
+- **Beacon of Hope** (1费, Power, Rare): Whenever you gain Block on your turn, other players gain half that much Block.
+- **Beat Down** (3费, Skill, Rare, 抽3): Play 3 random Attacks from your Discard Pile.
+- **Bolas** (0费, Attack, Rare, 伤害3): Deal 3 damage. At the start of your next turn, return this to your Hand.
+- **Calamity** (3费, Power, Rare): Whenever you play an Attack, add a random Attack into your Hand.
+- **Entropy** (1费, Power, Rare, 抽1): At the start of your turn, Transform 1 card in your Hand.
+- **Eternal Armor** (3费, Power, Rare): Gain 7 Plating.
+- **Gold Axe** (1费, Attack, Rare): Deal damage equal to the number of cards played this combat.
+- **Hand of Greed** (2费, Attack, Rare, 伤害20): Deal 20 damage. If Fatal, gain 20 Gold.
+- **Hidden Gem** (1费, Skill, Rare): A random card in your Draw Pile gains Replay 2.
+- **Jackpot** (X费, Attack, Rare, 伤害25/抽3): Deal 25 damage. Add 3 random 0[energy:1] cards into your Hand.
+- **Knockdown** (3费, Attack, Rare, 伤害10): Deal 10 damage. The enemy takes double damage from other players this turn.
+- **Master of Strategy** (0费, Skill, Rare, 抽3): Draw 3 cards.
+- **Mayhem** (2费, Power, Rare): At the start of your turn, play the top card of your Draw Pile.
+- **Mimic** (1费, Skill, Rare): Gain Block equal to the Block on another player.
+- **Nostalgia** (1费, Power, Rare): The first Attack or Skill you play each turn is placed on top of your Draw Pile.
+- **Rally** (2费, Skill, Rare, 格挡12): ALL players gain 12 Block.
+- **Rend** (2费, Attack, Rare): Deal 20 damage. Deals 5 additional damage for each unique debuff on the enemy.
+- **Rolling Boulder** (3费, Power, Rare): At the start of your turn, deal 5 damage to ALL enemies and increase this damage by 5.
+- **Salvo** (1费, Attack, Rare, 伤害12): Deal 12 damage. Retain your Hand this turn.
+- **Scrawl** (1费, Skill, Rare): Draw cards until your Hand is full.
+- **Secret Technique** (0费, Skill, Rare): Put a Skill from your Draw Pile into your Hand.
+- **Secret Weapon** (0费, Skill, Rare): Put an Attack from your Draw Pile into your Hand.
+- **The Gambit** (0费, Skill, Rare, 格挡50): Gain 50 Block. If you take unblocked attack damage this combat, die.
+- **Automation** (1费, Power, Uncommon): Every 10 cards you draw, gain [energy:1].
+- **Believe in You** (0费, Skill, Uncommon): Another player gains [energy:3].
+- **Catastrophe** (2费, Skill, Uncommon, 抽2): Play 2 random cards from your Draw Pile.
+- **Coordinate** (1费, Skill, Uncommon): Give another player 5 Strength this turn.
+- **Dark Shackles** (0费, Skill, Uncommon): Enemy loses 9 Strength this turn.
+- **Discovery** (1费, Skill, Uncommon): Choose 1 of 3 random cards to add into your Hand. It costs 0 [energy:1] this turn.
+- **Dramatic Entrance** (0费, Attack, Uncommon, 伤害11): Deal 11 damage to ALL enemies.
+- **Equilibrium** (2费, Skill, Uncommon, 格挡13): Gain 13 Block. Retain your Hand this turn.
+- **Fasten** (1费, Power, Uncommon): Gain an additional 5 Block from Defend cards.
+- **Finesse** (0费, Skill, Uncommon, 格挡4/抽1): Gain 4 Block. Draw 1 card.
+- **Fisticuffs** (1费, Attack, Uncommon, 伤害7): Deal 7 damage. Gain Block equal to damage dealt.
+- **Flash of Steel** (0费, Attack, Uncommon, 伤害5/抽1): Deal 5 damage. Draw 1 card.
+- **Gang Up** (1费, Attack, Uncommon): Deal 10 damage. Deals 5 additional damage for each time another player has attacked the enemy this turn.
+- **Huddle Up** (1费, Skill, Uncommon, 抽2): ALL allies draw 2 cards.
+- **Impatience** (0费, Skill, Uncommon, 抽2): If you have no Attacks in your Hand, draw 2 cards.
+- **Intercept** (1费, Skill, Uncommon, 格挡9): Gain 9 Block. Redirect all incoming attacks that would be dealt to another player this turn to you.
+- **Jack of All Trades** (0费, Skill, Uncommon, 抽1): Add 1 random Colorless card into your Hand.
+- **Lift** (1费, Skill, Uncommon, 格挡11): Give another player 11 Block.
+- **Mind Blast** (1费, Attack, Uncommon): Deal damage equal to the number of cards in your Draw Pile.
+- **Omnislice** (0费, Attack, Uncommon, 伤害8): Deal 8 damage. Damage ALL other enemies equal to the damage dealt.
+- **Panache** (0费, Power, Uncommon): Every time you play 5 cards in a single turn, deal 10 damage to ALL enemies.
+- **Panic Button** (0费, Skill, Uncommon, 格挡30): Gain 30 Block. You cannot gain Block from cards for 2 turns.
+- **Prep Time** (1费, Power, Uncommon): At the start of your turn, gain 4 Vigor.
+- **Production** (0费, Skill, Uncommon): Gain [energy:2].
+- **Prolong** (0费, Skill, Uncommon): Next turn, gain Block equal to your current Block.
+- **Prowess** (1费, Power, Uncommon): Gain 1 Strength. Gain 1 Dexterity.
+- **Purity** (0费, Skill, Uncommon, 抽3): Exhaust up to 3 cards in your Hand.
+- **Restlessness** (0费, Skill, Uncommon, 抽2): If your Hand is empty, draw 2 cards and gain [energy:2].
+- **Seeker Strike** (1费, Attack, Uncommon, 伤害6/抽3): Deal 6 damage. Choose 1 of 3 cards in your Draw Pile to add into your Hand.
+- **Shockwave** (2费, Skill, Uncommon): Apply 3 Weak and Vulnerable to ALL enemies.
+- **Splash** (1费, Skill, Uncommon): Choose 1 of 3 random Attacks from another character to add into your Hand. It's free to play this turn.
+- **Stratagem** (1费, Power, Uncommon): Whenever you shuffle your Draw Pile, choose a card from it to put into your Hand.
+- **Tag Team** (2费, Attack, Uncommon, 伤害11): Deal 11 damage. The next Attack another player plays on the enemy is played an extra time.
+- **The Bomb** (2费, Skill, Uncommon): At the end of 3 turns, deal 40 damage to ALL enemies.
+- **Thinking Ahead** (0费, Skill, Uncommon, 抽2): Draw 2 cards. Put 1 card from your Hand on top of your Draw Pile.
+- **Thrumming Hatchet** (1费, Attack, Uncommon, 伤害11): Deal 11 damage. At the start of your next turn, return this to your Hand.
+- **Ultimate Defend** (1费, Skill, Uncommon, 格挡11): Gain 11 Block.
+- **Ultimate Strike** (1费, Attack, Uncommon, 伤害14): Deal 14 damage.
+- **Volley** (X费, Attack, Uncommon, 伤害10): Deal 10 damage to a random enemy X times.

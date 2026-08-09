@@ -1,0 +1,90 @@
+# Silent Cards
+
+- **Suppress** (0费, Attack, Ancient, 伤害11): Deal 11 damage. Apply 3 Weak.
+- **Wraith Form** (3费, Power, Ancient): Gain 2 Intangible. At the start of your turn, lose 1 Dexterity.
+- **Defend** (1费, Skill, Basic, 格挡5): Gain 5 Block.
+- **Neutralize** (0费, Attack, Basic, 伤害3): Deal 3 damage. Apply 1 Weak.
+- **Strike** (1费, Attack, Basic, 伤害6): Deal 6 damage.
+- **Survivor** (1费, Skill, Basic, 格挡8): Gain 8 Block. Discard 1 card.
+- **Acrobatics** (1费, Skill, Common, 抽3): Draw 3 cards. Discard 1 card.
+- **Anticipate** (0费, Skill, Common): Gain 3 Dexterity this turn.
+- **Backflip** (1费, Skill, Common, 格挡5/抽2): Gain 5 Block. Draw 2 cards.
+- **Blade Dance** (1费, Skill, Common, 抽3): Add 3 Shivs into your Hand.
+- **Cloak and Dagger** (1费, Skill, Common, 格挡6/抽1): Gain 6 Block. Add 1 Shiv into your Hand.
+- **Dagger Spray** (1费, Attack, Common, 伤害4/打2下): Deal 4 damage to ALL enemies twice.
+- **Dagger Throw** (1费, Attack, Common, 伤害9): Deal 9 damage. Draw 1 card. Discard 1 card.
+- **Deadly Poison** (1费, Skill, Common): Apply 5 Poison.
+- **Deflect** (0费, Skill, Common, 格挡4): Gain 4 Block.
+- **Dodge and Roll** (1费, Skill, Common, 格挡4): Gain 4 Block. Next turn, gain 4 Block.
+- **Flick-Flack** (1费, Attack, Common, 伤害7): Deal 7 damage to ALL enemies.
+- **Leading Strike** (1费, Attack, Common, 伤害7): Deal 7 damage. Add 1 Shiv into your Hand.
+- **Piercing Wail** (1费, Skill, Common): ALL enemies lose 6 Strength this turn.
+- **Poisoned Stab** (1费, Attack, Common, 伤害6): Deal 6 damage. Apply 3 Poison.
+- **Prepared** (0费, Skill, Common, 抽1): Draw 1 card. Discard 1 card.
+- **Ricochet** (2费, Attack, Common, 伤害3): Deal 3 damage to a random enemy 4 times.
+- **Slice** (0费, Attack, Common, 伤害6): Deal 6 damage.
+- **Snakebite** (2费, Skill, Common): Apply 7 Poison.
+- **Sucker Punch** (1费, Attack, Common, 伤害8): Deal 8 damage. Apply 1 Weak.
+- **Untouchable** (2费, Skill, Common, 格挡9): Gain 9 Block.
+- **Abrasive** (3费, Power, Rare): Gain 1 Dexterity. Gain 4 Thorns.
+- **Accelerant** (1费, Power, Rare): Poison is triggered 1 additional time.
+- **Adrenaline** (0费, Skill, Rare, 抽2): Gain [energy:1]. Draw 2 cards.
+- **Afterimage** (1费, Power, Rare): Whenever you play a card, gain 1 Block.
+- **Assassinate** (0费, Attack, Rare, 伤害10): Deal 10 damage. Apply 1 Vulnerable.
+- **Blade of Ink** (1费, Skill, Rare): This turn, whenever you play an Attack, gain 2 Strength this turn.
+- **Bullet Time** (X费, Skill, Rare): You cannot draw additional cards this turn. ALL cards in your Hand are free to play this turn.
+- **Burst** (1费, Skill, Rare): This turn, your next Skill is played an extra time.
+- **Corrosive Wave** (1费, Skill, Rare): Whenever you draw a card this turn, apply 3 Poison to ALL enemies.
+- **Echoing Slash** (1费, Attack, Rare, 伤害10): Deal 10 damage to ALL enemies. Repeat this effect for each enemy killed.
+- **Envenom** (2费, Power, Rare): Whenever an Attack deals unblocked damage, apply 1 Poison.
+- **Fan of Knives** (2费, Power, Rare): Shivs now hit ALL enemies. Add 4 Shivs into your Hand.
+- **Grand Finale** (0费, Attack, Rare, 伤害50): Can only be played if there are no cards in your Draw Pile. Deal 50 damage to ALL enemies.
+- **Knife Trap** (2费, Skill, Rare): Play every Shiv in your Exhaust Pile on the enemy.
+- **Malaise** (X费, Skill, Rare): Enemy loses X Strength. Apply X Weak.
+- **Master Planner** (2费, Power, Rare): When you play a Skill, it gains Sly.
+- **Murder** (3费, Attack, Rare): Deal 2 damage. Deals 1 additional damage for each card drawn this combat.
+- **Nightmare** (3费, Skill, Rare): Choose a card. Next turn, add 3 copies of that card into your Hand.
+- **Serpent Form** (3费, Power, Rare): Whenever you play a card, deal 4 damage to a random enemy.
+- **Shadow Step** (1费, Skill, Rare, 抽3): Discard your Hand. Next turn, Attacks deal double damage.
+- **Shadowmeld** (1费, Skill, Rare): Double your Block gain this turn.
+- **Sneaky** (2费, Power, Rare): Whenever another player attacks an enemy, gain 1 Block.
+- **Storm of Steel** (1费, Skill, Rare): Discard your Hand. Add 1 Shiv into your Hand for each card discarded.
+- **The Hunt** (1费, Attack, Rare, 伤害10): Deal 10 damage. If Fatal, gain an additional card reward.
+- **Tools of the Trade** (1费, Power, Rare): At the start of your turn, draw 1 card and discard 1 card.
+- **Tracking** (2费, Power, Rare): Weak enemies take double damage from Attacks.
+- **Accuracy** (1费, Power, Uncommon): Shivs deal 4 additional damage.
+- **Backstab** (0费, Attack, Uncommon, 伤害11): Deal 11 damage.
+- **Blur** (1费, Skill, Uncommon, 格挡5): Gain 5 Block. Block is not removed at the start of your next turn.
+- **Bouncing Flask** (2费, Skill, Uncommon): Apply 3 Poison to a random enemy 3 times.
+- **Bubble Bubble** (1费, Skill, Uncommon): If the enemy has Poison, apply 9 Poison.
+- **Calculated Gamble** (0费, Skill, Uncommon): Discard your Hand, then draw that many cards.
+- **Dash** (2费, Attack, Uncommon, 伤害10/格挡10): Gain 10 Block. Deal 10 damage.
+- **Escape Plan** (0费, Skill, Uncommon, 格挡3): Draw 1 card. If you draw a Skill, gain 3 Block.
+- **Expertise** (1费, Skill, Uncommon, 抽6): Draw cards until you have 6 in your Hand.
+- **Expose** (0费, Skill, Uncommon): Remove all Artifact and Block from the enemy. Apply 2 Vulnerable.
+- **Finisher** (1费, Attack, Uncommon, 伤害6): Deal 6 damage for each Attack already played this turn.
+- **Flanking** (2费, Skill, Uncommon): The enemy takes double damage from other players this turn.
+- **Flechettes** (1费, Attack, Uncommon, 伤害5): Deal 5 damage for each Skill in your Hand.
+- **Follow Through** (1费, Attack, Uncommon, 伤害6): Deal 6 damage to ALL enemies. If the last card you played this turn was a Skill, apply 1 Weak to ALL enemies.
+- **Footwork** (1费, Power, Uncommon): Gain 2 Dexterity.
+- **Hand Trick** (1费, Skill, Uncommon, 格挡7): Gain 7 Block. Add Sly to a Skill in your Hand this turn.
+- **Haze** (3费, Skill, Uncommon): Apply 4 Poison to ALL enemies.
+- **Hidden Daggers** (0费, Skill, Uncommon, 抽2): Discard 2 cards. Add 2 Shivs into your Hand.
+- **Infinite Blades** (1费, Power, Uncommon): At the start of your turn, add 1 Shiv into your Hand.
+- **Leg Sweep** (2费, Skill, Uncommon, 格挡11): Apply 2 Weak. Gain 11 Block.
+- **Memento Mori** (1费, Attack, Uncommon): Deal 12 damage. Deals 4 additional damage for each card discarded this turn.
+- **Mirage** (1费, Skill, Uncommon): Gain Block equal to Poison on ALL enemies.
+- **Noxious Fumes** (1费, Power, Uncommon): At the start of your turn, apply 2 Poison to ALL enemies.
+- **Outbreak** (1费, Power, Uncommon): Every 3 times you apply Poison, deal 11 damage to ALL enemies.
+- **Phantom Blades** (1费, Power, Uncommon): Shivs gain Retain. The first Shiv you play each turn deals 9 additional damage.
+- **Pinpoint** (3费, Attack, Uncommon, 伤害17): Deal 17 damage. Costs 1 less [energy:1] for each Skill played this turn.
+- **Pounce** (2费, Attack, Uncommon, 伤害12): Deal 12 damage. The next Skill you play costs 0 [energy:1].
+- **Precise Cut** (0费, Attack, Uncommon): Deal 15 damage. Deals 2 less damage for each other card in your Hand.
+- **Predator** (2费, Attack, Uncommon, 伤害15): Deal 15 damage. Next turn, draw 2 cards.
+- **Reflex** (3费, Skill, Uncommon, 抽2): Draw 2 cards.
+- **Skewer** (X费, Attack, Uncommon, 伤害7): Deal 7 damage X times.
+- **Speedster** (2费, Power, Uncommon): Whenever you draw a card during your turn, deal 2 damage to ALL enemies.
+- **Strangle** (1费, Attack, Uncommon, 伤害8): Deal 8 damage. Whenever you play a card this turn, the enemy loses 2 HP.
+- **Tactician** (3费, Skill, Uncommon): Gain [energy:1].
+- **Up My Sleeve** (2费, Skill, Uncommon, 抽3): Add 3 Shivs into your Hand. Reduce this card's cost by 1.
+- **Well-Laid Plans** (1费, Power, Uncommon): At the end of your turn, Retain up to 1 card.

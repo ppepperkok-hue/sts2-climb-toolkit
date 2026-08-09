@@ -1,0 +1,90 @@
+# Defect Cards
+
+- **Biased Cognition** (1费, Power, Ancient): Gain 4 Focus. At the start of your turn, lose 1 Focus.
+- **Quadcast** (1费, Skill, Ancient): Evoke your rightmost Orb 4 times.
+- **Defend** (1费, Skill, Basic, 格挡5): Gain 5 Block.
+- **Dualcast** (1费, Skill, Basic): Evoke your rightmost Orb twice.
+- **Strike** (1费, Attack, Basic, 伤害6): Deal 6 damage.
+- **Zap** (1费, Skill, Basic): Channel 1 Lightning.
+- **Ball Lightning** (1费, Attack, Common, 伤害7): Deal 7 damage. Channel 1 Lightning.
+- **Barrage** (1费, Attack, Common, 伤害5): Deal 5 damage for each Channeled Orb.
+- **Beam Cell** (0费, Attack, Common, 伤害3): Deal 3 damage. Apply 1 Vulnerable.
+- **Boost Away** (0费, Skill, Common, 格挡6): Gain 6 Block. Add a Dazed into your Discard Pile.
+- **Charge Battery** (1费, Skill, Common, 格挡7): Gain 7 Block. Next turn, gain [energy:1].
+- **Claw** (0费, Attack, Common, 伤害3): Deal 3 damage. Increase the damage of ALL Claw cards by 2 this combat.
+- **Cold Snap** (1费, Attack, Common, 伤害6): Deal 6 damage. Channel 1 Frost.
+- **Compile Driver** (1费, Attack, Common, 伤害7): Deal 7 damage. Draw 1 card for each unique Orb you have.
+- **Coolheaded** (1费, Skill, Common, 抽1): Channel 1 Frost. Draw 1 card.
+- **Focused Strike** (1费, Attack, Common, 伤害9): Deal 9 damage. Gain 1 Focus this turn.
+- **Go for the Eyes** (0费, Attack, Common, 伤害3): Deal 3 damage. If the enemy intends to attack, apply 1 Weak.
+- **Gunk Up** (1费, Attack, Common, 伤害4): Deal 4 damage 3 times. Add a Slimed into your Discard Pile.
+- **Hologram** (1费, Skill, Common, 格挡3): Gain 3 Block. Put a card from your Discard Pile into your Hand.
+- **Hotfix** (0费, Skill, Common): Gain 2 Focus this turn.
+- **Leap** (1费, Skill, Common, 格挡9): Gain 9 Block.
+- **Lightning Rod** (1费, Skill, Common, 格挡4): Gain 4 Block. At the start of the next 2 turns, Channel 1 Lightning.
+- **Momentum Strike** (1费, Attack, Common, 伤害10): Deal 10 damage. Reduce this card's cost to 0 [energy:1].
+- **Sweeping Beam** (1费, Attack, Common, 伤害6/抽1): Deal 6 damage to ALL enemies. Draw 1 card.
+- **TURBO** (0费, Skill, Common): Gain [energy:2]. Add a Void into your Discard Pile.
+- **Uproar** (2费, Attack, Common, 伤害5/打2下): Deal 5 damage twice. Play a random Attack from your Draw Pile.
+- **Adaptive Strike** (2费, Attack, Rare, 伤害18): Deal 18 damage. Add a 0[energy:1] copy of this card into your Discard Pile.
+- **All for One** (X费, Attack, Rare, 伤害10): Deal 10 damage. Put ALL 0[energy:1] cards from your Discard Pile into your Hand.
+- **Buffer** (2费, Power, Rare): Prevent the next time you would lose HP.
+- **Consuming Shadow** (2费, Power, Rare): Channel 2 Dark. At the end of your turn, Evoke your leftmost Orb.
+- **Coolant** (1费, Power, Rare): At the start of your turn, gain 2 Block for each unique Orb you have.
+- **Creative AI** (3费, Power, Rare): At the start of your turn, add a random Power into your Hand.
+- **Defragment** (1费, Power, Rare): Gain 1 Focus.
+- **Echo Form** (3费, Power, Rare): The first card you play each turn is played an extra time.
+- **Flak Cannon** (2费, Attack, Rare, 伤害8): Exhaust ALL your Status cards. Deal 8 damage to a random enemy for each card Exhausted.
+- **Genetic Algorithm** (1费, Skill, Rare, 格挡1): Gain 1 Block. Permanently increase this card's Block by 3.
+- **Helix Drill** (0费, Attack, Rare, 伤害3): Deal 3 damage for each [energy:1] previously spent this turn.
+- **Hyperbeam** (2费, Attack, Rare, 伤害26): Deal 26 damage to ALL enemies. Lose 3 Focus.
+- **Ice Lance** (3费, Attack, Rare, 伤害19): Deal 19 damage. Channel 3 Frost.
+- **Ignition** (1费, Skill, Rare): Another player Channels Plasma.
+- **Machine Learning** (1费, Power, Rare, 抽1): At the start of your turn, draw 1 additional card.
+- **Meteor Strike** (5费, Attack, Rare, 伤害24): Deal 24 damage. Channel 3 Plasma.
+- **Modded** (0费, Skill, Rare, 抽1): Gain 1 Orb Slot. Draw 1 card. Increase this card's cost by 1.
+- **Multi-Cast** (X费, Skill, Rare): Evoke your rightmost Orb X times.
+- **Rainbow** (2费, Skill, Rare): Channel 1 Lightning. Channel 1 Frost. Channel 1 Dark.
+- **Reboot** (0费, Skill, Rare, 抽4): Shuffle ALL your cards into your Draw Pile. Draw 4 cards.
+- **Shatter** (1费, Attack, Rare, 伤害11): Deal 11 damage to ALL enemies. Evoke all of your Orbs.
+- **Signal Boost** (1费, Skill, Rare): The next Power you play is played an additional time.
+- **Spinner** (1费, Power, Rare): At the start of your turn, Channel 1 Glass.
+- **Supercritical** (0费, Skill, Rare): Gain [energy:4].
+- **Trash to Treasure** (1费, Power, Rare): Whenever you create a Status card, Channel 1 random Orb.
+- **Voltaic** (2费, Skill, Rare): Channel Lightning equal to the Lightning already Channeled this combat.
+- **Boot Sequence** (0费, Skill, Uncommon, 格挡10): Gain 10 Block.
+- **Bulk Up** (2费, Power, Uncommon): Lose 1 Orb Slot. Gain 2 Strength. Gain 2 Dexterity.
+- **Capacitor** (1费, Power, Uncommon): Gain 2 Orb Slots.
+- **Chaos** (1费, Skill, Uncommon): Channel 1 random Orb.
+- **Chill** (0费, Skill, Uncommon): Channel 1 Frost for each enemy.
+- **Compact** (1费, Skill, Uncommon, 格挡6): Gain 6 Block. Transform all Status cards in your Hand into Fuel.
+- **Darkness** (1费, Skill, Uncommon): Channel 1 Dark. Trigger the passive ability of all Dark Orbs.
+- **Double Energy** (1费, Skill, Uncommon): Double your Energy.
+- **Energy Surge** (1费, Skill, Uncommon): ALL players gain [energy:2].
+- **FTL** (0费, Attack, Uncommon, 伤害5/抽1): Deal 5 damage. If you have played fewer than 3 cards this turn, draw 1 card.
+- **Feral** (2费, Power, Uncommon): The first time you play a 0[energy:1] Attack each turn, return it to your Hand.
+- **Fight Through** (1费, Skill, Uncommon, 格挡13): Gain 13 Block. Add 2 Wounds into your Discard Pile.
+- **Fusion** (2费, Skill, Uncommon): Channel 1 Plasma.
+- **Glacier** (2费, Skill, Uncommon, 格挡6): Gain 6 Block. Channel 2 Frost.
+- **Glasswork** (1费, Skill, Uncommon, 格挡5): Gain 5 Block. Channel 1 Glass.
+- **Hailstorm** (1费, Power, Uncommon): At the end of your turn, if you have Frost, deal 6 damage to ALL enemies.
+- **Iteration** (1费, Power, Uncommon): The first time you draw a Status card each turn, draw 2 cards.
+- **Loop** (1费, Power, Uncommon): At the start of your turn, trigger the passive ability of your rightmost Orb.
+- **Null** (2费, Attack, Uncommon, 伤害10): Deal 10 damage. Apply 2 Weak. Channel 1 Dark.
+- **Overclock** (0费, Skill, Uncommon, 抽2): Draw 2 cards. Add a Burn into your Discard Pile.
+- **Refract** (3费, Attack, Uncommon, 伤害9/打2下): Deal 9 damage twice. Channel 2 Glass.
+- **Rocket Punch** (2费, Attack, Uncommon, 伤害13/抽1): Deal 13 damage. Draw 1 card. When a Status card is created, reduce this card's cost to 0 [energy:1] this turn.
+- **Scavenge** (1费, Skill, Uncommon): Exhaust a card. Next turn, gain [energy:2].
+- **Scrape** (X费, Attack, Uncommon, 伤害7/抽4): Deal 7 damage. Draw 4 cards. Discard all cards drawn this way that do not cost 0 [energy:1].
+- **Shadow Shield** (2费, Skill, Uncommon, 格挡11): Gain 11 Block. Channel 1 Dark.
+- **Skim** (1费, Skill, Uncommon, 抽3): Draw 3 cards.
+- **Smokestack** (1费, Power, Uncommon): Whenever you create a Status, deal 5 damage to ALL enemies.
+- **Storm** (1费, Power, Uncommon): Whenever you play a Power, Channel 1 Lightning.
+- **Subroutine** (1费, Power, Uncommon): Whenever you play a Power, gain [energy:1].
+- **Sunder** (3费, Attack, Uncommon, 伤害24): Deal 24 damage. If this kills an enemy, gain [energy:3].
+- **Synchronize** (1费, Skill, Uncommon): Gain 2 Focus this turn for each unique Orb you have.
+- **Synthesis** (2费, Attack, Uncommon, 伤害12): Deal 12 damage. The next Power you play costs 0 [energy:1].
+- **Tempest** (X费, Skill, Uncommon): Channel X Lightning.
+- **Tesla Coil** (0费, Attack, Uncommon, 伤害3): Deal 3 damage. Trigger all Lightning against the enemy.
+- **Thunder** (1费, Power, Uncommon): Whenever you Evoke Lightning, deal 6 damage to each enemy hit.
+- **White Noise** (1费, Skill, Uncommon): Add a random Power into your Hand. It's free to play this turn.

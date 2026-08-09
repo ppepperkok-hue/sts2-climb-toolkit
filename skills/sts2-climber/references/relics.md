@@ -1,0 +1,291 @@
+# Relics
+
+- **Alchemical Coffer** (Ancient Relic, shared): Upon pickup, gain 4 potion slots filled with random potions.
+- **Arcane Scroll** (Ancient Relic, shared): Upon pickup, obtain a random Rare Card to add to your Deck.
+- **Archaic Tooth** (Ancient Relic, shared): Upon pickup, Transform a starter card with an ancient version.
+- **Astrolabe** (Ancient Relic, shared): Upon pickup, Transform 3 cards, then Upgrade them.
+- **Beautiful Bracelet** (Ancient Relic, shared): Upon pickup, choose 3 cards in your Deck. Enchant them with Swift 3.
+- **Biiig Hug** (Ancient Relic, shared): Upon pickup, remove 4 cards from your Deck. Whenever you shuffle your Draw Pile, add a Soot into your Draw Pile.
+- **Black Star** (Ancient Relic, shared): Elites drop an additional Relic when defeated.
+- **Blessed Antler** (Ancient Relic, shared): Gain [energy:1] at the start of each turn. At the start of each combat, shuffle 3 Dazed into your Draw Pile.
+- **Blood-Soaked Rose** (Ancient Relic, shared): Upon pickup, add 1 Enthralled to your Deck. Gain [energy:1] at the start of each turn.
+- **Booming Conch** (Ancient Relic, shared): At the start of Elite combats, draw 2 additional cards.
+- **Brilliant Scarf** (Ancient Relic, shared): The 5th card you play each turn is free.
+- **Calling Bell** (Ancient Relic, shared): Upon pickup, obtain a unique Curse and 3 Relics.
+- **Choices Paradox** (Ancient Relic, shared): At the start of each combat, add 1 of 5 random cards into your Hand. Add Retain to the chosen card.
+- **Claws** (Ancient Relic, shared): Upon pickup, Transform up to 6 cards into Maul.
+- **Crossbow** (Ancient Relic, shared): At the start of your turn, add a random Attack into your Hand. It costs 0[energy:1] this turn.
+- **Cursed Pearl** (Ancient Relic, shared): Upon pickup, receive Greed. Gain 333 Gold.
+- **Delicate Frond** (Ancient Relic, shared): At the start of each combat, fill all empty potion slots with random potions.
+- **Diamond Diadem** (Ancient Relic, shared): Whenever you play 2 or fewer cards in a turn, take half damage from enemies.
+- **Distinguished Cape** (Ancient Relic, shared): Upon pickup, lose 9 Max HP. Add 3 Apparitions to your Deck.
+- **Driftwood** (Ancient Relic, shared): You may reroll each card reward once.
+- **Dusty Tome** (Ancient Relic, shared): Upon pickup, obtain an Ancient Card.
+- **Ectoplasm** (Ancient Relic, shared): You can no longer gain Gold. Gain [energy:1] at the start of each turn.
+- **Electric Shrymp** (Ancient Relic, shared): Upon pickup, Enchant a Skill with Imbued.
+- **Empty Cage** (Ancient Relic, shared): Upon pickup, remove 2 cards from your Deck.
+- **Fiddle** (Ancient Relic, shared): At the start of each turn, draw 2 additional cards. You may not draw cards during your turn.
+- **Fur Coat** (Ancient Relic, shared): Upon pickup, mark 7 random combats. Enemies in those rooms have 1 HP.
+- **Glass Eye** (Ancient Relic, shared): Upon pickup, obtain 2 Common cards, 2 Uncommon cards, and 1 Rare card.
+- **Glitter** (Ancient Relic, shared): Enchant all card rewards with Glam.
+- **Golden Compass** (Ancient Relic, shared): Upon pickup, replace the Act 2 Map with a single special path.
+- **Golden Pearl** (Ancient Relic, shared): Upon pickup, gain 150 Gold.
+- **Iron Club** (Ancient Relic, shared): Every 4 cards you play, draw 1 card.
+- **Jeweled Mask** (Ancient Relic, shared): At the start of combat put a random Power from your Draw Pile into your Hand, it's free to play.
+- **Jewelry Box** (Ancient Relic, shared): Upon pickup, add 1 Apotheosis to your Deck.
+- **Large Capsule** (Ancient Relic, shared): Upon pickup, obtain 2 random Relics. Add an additional Strike and Defend to your Deck.
+- **Lava Rock** (Ancient Relic, shared): The Act 1 Boss drops 2 Relics.
+- **Lead Paperweight** (Ancient Relic, shared): Upon pickup, choose 1 of 2 Colorless cards to add to your Deck.
+- **Leafy Poultice** (Ancient Relic, shared): Upon pickup, Transform 1 of your Strikes and 1 of your Defends and lose 10 Max HP.
+- **Looming Fruit** (Ancient Relic, shared): Upon pickup, raise your Max HP by 31.
+- **Lord's Parasol** (Ancient Relic, shared): When you encounter the Merchant, immediately obtain EVERYTHING he sells.
+- **Lost Coffer** (Ancient Relic, shared): Upon pickup, gain 1 card reward and procure 1 random potion.
+- **Massive Scroll** (Ancient Relic, shared): Upon pickup, choose 1 of 3 Multiplayer Colorless Cards to add to your Deck.
+- **Meat Cleaver** (Ancient Relic, shared): You may Cook at Rest Sites.
+- **Music Box** (Ancient Relic, shared): Create an Ethereal copy of the first Attack you play each turn.
+- **Neow's Torment** (Ancient Relic, shared): Upon pickup, add 1 Neow's Fury to your Deck.
+- **New Leaf** (Ancient Relic, shared): Upon pickup, Transform 1 card.
+- **Nutritious Oyster** (Ancient Relic, shared): Upon pickup, raise your Max HP by 11.
+- **Nutritious Soup** (Ancient Relic, shared): Upon pickup, Enchant all Strikes in your Deck with Tezcatara's Ember.
+- **Pael's Blood** (Ancient Relic, shared): At the start of your turn, draw 1 additional card.
+- **Pael's Claw** (Ancient Relic, shared): Upon pickup, Enchant all Defends with .
+- **Pael's Eye** (Ancient Relic, shared): The first time each combat you end your turn without playing cards, Exhaust your Hand, and take an extra turn.
+- **Pael's Flesh** (Ancient Relic, shared): Gain an additional [energy:1] at the start of your 3rd turn, and every turn after that.
+- **Pael's Growth** (Ancient Relic, shared): Upon pickup, Enchant a card with .
+- **Pael's Horn** (Ancient Relic, shared): Upon pickup, add 2 Relax to your Deck.
+- **Pael's Legion** (Ancient Relic, shared): Doubles Block gained from a card, then goes to sleep for 2 turns.
+- **Pael's Tears** (Ancient Relic, shared): If you end your turn with unspent [energy:1], gain an additional [energy:2] next turn.
+- **Pael's Tooth** (Ancient Relic, shared): Upon pickup, remove 5 cards from your Deck. After each combat, randomly add 1 back Upgraded.
+- **Pael's Wing** (Ancient Relic, shared): You may sacrifice card rewards to Pael. Every 2 sacrifices, obtain a Relic.
+- **Pandora's Box** (Ancient Relic, shared): Transform ALL Strikes and Defends.
+- **Philosopher's Stone** (Ancient Relic, shared): Gain [energy:1] at the start of each turn. ALL enemies start combat with 1 Strength.
+- **Pomander** (Ancient Relic, shared): Upon pickup, Upgrade a card.
+- **Precarious Shears** (Ancient Relic, shared): Upon pickup, remove 2 cards from your Deck and take 13 damage.
+- **Precise Scissors** (Ancient Relic, shared): Upon pickup, remove 1 card from your Deck.
+- **Preserved Fog** (Ancient Relic, shared): Upon pickup, remove 5 cards from your Deck. Add Folly to your Deck.
+- **Prismatic Gem** (Ancient Relic, shared): Gain [energy:1] at the start of each turn. Card rewards now contain cards from other colors.
+- **Pumpkin Candle** (Ancient Relic, shared): Gain [energy:1] at the start of each turn. Extinguishes at the start of Act 3.
+- **Radiant Pearl** (Ancient Relic, shared): At the start of each combat, add 1 Luminesce into your Hand.
+- **Runic Pyramid** (Ancient Relic, shared): At the end of your turn, you no longer discard your Hand.
+- **Sai** (Ancient Relic, shared): At the start of your turn, gain 7 Block.
+- **Sand Castle** (Ancient Relic, shared): Upon pickup, Upgrade 6 random cards.
+- **Scroll Boxes** (Ancient Relic, shared): Upon pickup, lose all Gold and choose 1 of 2 packs of cards to add to your Deck.
+- **Sea Glass** (Ancient Relic, shared): See 15 cards from another character. Choose any number of them to add to your Deck.
+- **Seal of Gold** (Ancient Relic, shared): At the start of your turn, spend 5 Gold to gain [energy:1].
+- **Sere Talon** (Ancient Relic, shared): Upon pickup, add 2 random Curses and 3 Wishes to your Deck.
+- **Signet Ring** (Ancient Relic, shared): Upon pickup, gain 999 Gold.
+- **Silver Crucible** (Ancient Relic, shared): The first 3 card rewards you see are Upgraded. The first Treasure Chest you open is empty.
+- **Small Capsule** (Ancient Relic, shared): Upon pickup, obtain a random Relic.
+- **Snecko Eye** (Ancient Relic, shared): At the start of your turn, draw 2 additional cards. Start each combat Confused.
+- **Sozu** (Ancient Relic, shared): Gain [energy:1] at the start of each turn. You can no longer obtain potions.
+- **Spiked Gauntlets** (Ancient Relic, shared): Gain [energy:1] at the start of each turn. Powers cost 1 more [energy:1].
+- **Stone Humidifier** (Ancient Relic, shared): Whenever you Rest at a Rest Site, raise your Max HP by 5.
+- **Storybook** (Ancient Relic, shared): Upon pickup, add 1 Brightest Flame to your Deck.
+- **Tanx's Whistle** (Ancient Relic, shared): Upon pickup, add 1 Whistle to your Deck.
+- **Throwing Axe** (Ancient Relic, shared): The first card you play each combat is played an extra time.
+- **Toasty Mittens** (Ancient Relic, shared): At the start of your turn, Exhaust the top card of your Draw Pile and gain 1 Strength.
+- **Touch of Orobas** (Ancient Relic, shared): Upon pickup, replace your starter Relic with an Ancient version.
+- **Toy Box** (Ancient Relic, shared): Upon pickup, obtain 4 Wax Relics. Every 3 combats, your left-most Wax Relic will melt away.
+- **Tri-Boomerang** (Ancient Relic, shared): Choose 3 Attacks in your Deck. Enchant them with Instinct.
+- **Velvet Choker** (Ancient Relic, shared): Gain [energy:1] at the start of each turn. You cannot play more than 6 cards per turn.
+- **Very Hot Cocoa** (Ancient Relic, shared): Start each combat with an additional [energy:4].
+- **War Hammer** (Ancient Relic, shared): Whenever you kill an Elite, Upgrade 4 random cards.
+- **Whispering Earring** (Ancient Relic, shared): Gain [energy:1] at the start of each turn. Vakuu plays your first turn for you.
+- **Yummy Cookie** (Ancient Relic, shared): Upon pickup, Upgrade 4 cards.
+- **Amethyst Aubergine** (Common Relic, shared): Enemies drop 10 additional Gold.
+- **Anchor** (Common Relic, shared): Start each combat with 10 Block.
+- **Bag of Preparation** (Common Relic, shared): At the start of each combat, draw 2 additional cards.
+- **Blood Vial** (Common Relic, shared): At the start of each combat, heal 2 HP.
+- **Bone Flute** (Common Relic, necrobinder): Whenever Osty attacks, gain 2 Block.
+- **Book of Five Rings** (Common Relic, shared): Every 5 cards you add to your Deck, heal 15 HP.
+- **Bronze Scales** (Common Relic, shared): Start each combat with 3 Thorns.
+- **Centennial Puzzle** (Common Relic, shared): The first time you lose HP each combat, draw 3 cards.
+- **Data Disk** (Common Relic, defect): Start each combat with 1 Focus.
+- **Fencing Manual** (Common Relic, regent): At the start of each combat, Forge 10.
+- **Festive Popper** (Common Relic, shared): At the start of each combat, deal 9 damage to ALL enemies.
+- **Gorget** (Common Relic, shared): At the start of each combat, gain 4 Plating.
+- **Happy Flower** (Common Relic, shared): Every 3 turns, gain [energy:1].
+- **Juzu Bracelet** (Common Relic, shared): Regular enemy combats are no longer encountered in ? rooms.
+- **Lantern** (Common Relic, shared): Start each combat with an additional [energy:1].
+- **Meal Ticket** (Common Relic, shared): Whenever you enter a shop room, heal 15 HP.
+- **Oddly Smooth Stone** (Common Relic, shared): Start each combat with 1 Dexterity.
+- **Pendulum** (Common Relic, shared): Whenever you shuffle your Draw Pile, draw a card.
+- **Permafrost** (Common Relic, shared): The first time you play a Power each combat, gain 6 Block.
+- **Potion Belt** (Common Relic, shared): Upon pickup, gain 2 potion slots.
+- **Red Skull** (Common Relic, ironclad): While your HP is at or below 50%, you have 3 additional Strength.
+- **Regal Pillow** (Common Relic, shared): Whenever you Rest, heal an additional 15 HP.
+- **Snecko Skull** (Common Relic, silent): Whenever you apply Poison, apply an additional 1 Poison.
+- **Strawberry** (Common Relic, shared): Upon pickup, raise your Max HP by 7.
+- **Strike Dummy** (Common Relic, shared): Cards containing “Strike” deal 3 additional damage.
+- **Tiny Mailbox** (Common Relic, shared): Whenever you Rest, procure a random potion.
+- **Vajra** (Common Relic, shared): Start each combat with 1 Strength.
+- **Venerable Tea Set** (Common Relic, shared): Whenever you enter a Rest Site, start the next combat with an additional [energy:2].
+- **War Paint** (Common Relic, shared): Upon pickup, Upgrade 2 random Skills.
+- **Whetstone** (Common Relic, shared): Upon pickup, Upgrade 2 random Attacks.
+- **Anchor???** (Event Relic, shared): Start each combat with 4 Block.
+- **Big Mushroom** (Event Relic, shared): Upon pickup, raise your Max HP by 20. At the start of each combat, draw 2 fewer cards.
+- **Bing Bong** (Event Relic, shared): Whenever you add a card to your Deck, add one additional copy.
+- **Blood Vial???** (Event Relic, shared): At the start of each combat, heal 1 HP.
+- **Bone Tea** (Event Relic, shared): At the start of the next 2 combats, Upgrade your starting hand.
+- **Byrdpip** (Event Relic, shared): Upon pickup, gain the card Byrd Swoop. A Byrdpip will accompany you in battles.
+- **Darkstone Periapt** (Event Relic, shared): Whenever you obtain a Curse, raise your Max HP by 6.
+- **Daughter of the Wind** (Event Relic, shared): Whenever you play an Attack, gain 1 Block.
+- **Dream Catcher** (Event Relic, shared): Whenever you Rest, you may add a card to your Deck.
+- **Ember Tea** (Event Relic, shared): At the start of the next 2 combats, gain 2 Strength.
+- **Forgotten Soul** (Event Relic, shared): Whenever you Exhaust a card, deal 1 damage to a random enemy.
+- **Fragrant Mushroom** (Event Relic, shared): Upon pickup, lose 15 HP and Upgrade 3 random cards.
+- **Fresnel Lens** (Event Relic, shared): Whenever you add a card that gains Block to your Deck, Enchant it with Nimble 2.
+- **Hand Drill** (Event Relic, shared): Whenever you break an enemy's Block, apply 2 Vulnerable.
+- **Happy Flower???** (Event Relic, shared): Every 5 turns, gain [energy:1].
+- **History Course** (Event Relic, shared): At the start of your turn, play a copy of your last played Attack or Skill.
+- **Lee's Waffle???** (Event Relic, shared): Upon pickup, heal 10% of your HP.
+- **Lost Wisp** (Event Relic, shared): Whenever you play a Power, deal 8 damage to ALL enemies.
+- **Mango???** (Event Relic, shared): Upon pickup, raise your Max HP by 3.
+- **Maw Bank** (Event Relic, shared): Whenever you climb a floor, gain 12 Gold. No longer works when you spend any Gold at the shop.
+- **Mr. Struggles** (Event Relic, shared): At the start of your turn, deal damage equal to the turn number to ALL enemies.
+- **Orichalcum???** (Event Relic, shared): If you end your turn without Block, gain 3 Block.
+- **Pollinous Core** (Event Relic, shared): Every 4 turns, draw 2 additional cards.
+- **Royal Poison** (Event Relic, shared): At the start of each combat, lose 4 HP.
+- **Snecko Eye???** (Event Relic, shared): Start each combat Confused.
+- **Strike Dummy???** (Event Relic, shared): Cards containing “Strike” deal 1 additional damage.
+- **Sword of Jade** (Event Relic, shared): Start each combat with 3 Strength.
+- **Sword of Stone** (Event Relic, shared): Transforms into a powerful Relic after defeating 5 Elites.
+- **Tea of Discourtesy** (Event Relic, shared): At the start of the next combat, shuffle 2 Dazed into your Draw Pile.
+- **The Boot** (Event Relic, shared): Whenever you would deal 4 or less unblocked attack damage, increase it to 5.
+- **The Chosen Cheese** (Event Relic, shared): At the end of combat, gain 1 Max HP.
+- **The Merchant's Rug???** (Event Relic, shared): Poor imitation. Does nothing.
+- **Venerable Tea Set???** (Event Relic, shared): Whenever you enter a Rest Site, start the next combat with an additional [energy:1].
+- **Wongo Customer Appreciation Badge** (Event Relic, shared): Does nothing.
+- **Wongo's Mystery Ticket** (Event Relic, shared): Receive 3 random Relics after 5 combats.
+- **Circlet** (None, shared): It's a circlet.
+- **Art of War** (Rare Relic, shared): If you do not play any Attacks during your turn, gain an additional [energy:1] next turn.
+- **Beating Remnant** (Rare Relic, shared): You cannot lose more than 20 HP in a single turn.
+- **Big Hat** (Rare Relic, necrobinder): At the start of each combat, add 2 random Ethereal cards into your Hand.
+- **Bookmark** (Rare Relic, necrobinder): At the end of each turn, lower the cost of a random Retained card by 1 until played.
+- **Captain's Wheel** (Rare Relic, shared): At the start of your 3rd turn, gain 18 Block.
+- **Chandelier** (Rare Relic, shared): At the start of your 3rd turn, gain [energy:3].
+- **Charon's Ashes** (Rare Relic, ironclad): Whenever you Exhaust a card, deal 3 damage to ALL enemies.
+- **Cloak Clasp** (Rare Relic, shared): At the end of your turn, gain 1 Block for each card in your Hand.
+- **Demon Tongue** (Rare Relic, ironclad): The first time you lose HP on your turn, heal HP equal to the amount lost.
+- **Emotion Chip** (Rare Relic, defect): If you lost HP during the previous turn, trigger the passive ability of all Orbs at the start of your turn.
+- **Frozen Egg** (Rare Relic, shared): Whenever you add a Power into your Deck, Upgrade it.
+- **Gambling Chip** (Rare Relic, shared): At the start of each combat, discard any number of cards then draw that many.
+- **Game Piece** (Rare Relic, shared): Whenever you play a Power, draw 1 card.
+- **Girya** (Rare Relic, shared): You can now gain Strength at Rest Sites. (3 times max)
+- **Helical Dart** (Rare Relic, silent): Whenever you play a Shiv, gain 1 Dexterity this turn.
+- **Ice Cream** (Rare Relic, shared): Energy is now conserved between turns.
+- **Intimidating Helmet** (Rare Relic, shared): Whenever you play a card that costs [energy:2] or more, gain 4 Block.
+- **Ivory Tile** (Rare Relic, necrobinder): Whenever you play a card that costs [energy:3] or more, gain [energy:1].
+- **Kunai** (Rare Relic, shared): Every time you play 3 Attacks in a single turn, gain 1 Dexterity.
+- **Lasting Candy** (Rare Relic, shared): Every other combat, your card rewards gain an additional Power.
+- **Lizard Tail** (Rare Relic, shared): When you would die, heal to 50% of your Max HP instead (works once).
+- **Lunar Pastry** (Rare Relic, regent): At the end of your turn, gain [star:1].
+- **Mango** (Rare Relic, shared): Upon pickup, raise your Max HP by 14.
+- **Meat on the Bone** (Rare Relic, shared): If your HP is at or below 50% at the end of combat, heal 12 HP.
+- **Metronome** (Rare Relic, defect): The first time you Channel 7 Orbs each combat, deal 30 damage to ALL enemies.
+- **Mini Regent** (Rare Relic, regent): The first time you spend [star:1] each turn, gain 1 Strength.
+- **Molten Egg** (Rare Relic, shared): Whenever you add an Attack card to your Deck, Upgrade it.
+- **Mummified Hand** (Rare Relic, shared): Whenever you play a Power, a random card in your Hand is free to play that turn.
+- **Old Coin** (Rare Relic, shared): Upon pickup, gain 300 Gold.
+- **Orange Dough** (Rare Relic, regent): At the start of each combat, add 2 random Colorless cards into your Hand.
+- **Paper Krane** (Rare Relic, silent): Enemies with Weak deal 40% less damage to you rather than 25%.
+- **Pocketwatch** (Rare Relic, shared): Whenever you play 3 or fewer cards during your turn, draw 3 additional cards at the start of your next turn.
+- **Power Cell** (Rare Relic, defect): At the start of each combat, add 2 zero-cost cards from your Draw Pile into your Hand.
+- **Prayer Wheel** (Rare Relic, shared): Normal enemies drop an additional card reward.
+- **Rainbow Ring** (Rare Relic, shared): The first time you play an Attack, Skill, and Power each turn, gain 1 Strength and 1 Dexterity.
+- **Razor Tooth** (Rare Relic, shared): Every time you play an Attack or Skill, Upgrade it for the remainder of combat.
+- **Ruined Helmet** (Rare Relic, ironclad): The first time you gain Strength each combat, double the amount gained.
+- **Shovel** (Rare Relic, shared): You can now dig at Rest Sites to obtain a random Relic.
+- **Shuriken** (Rare Relic, shared): Every time you play 3 Attacks in a single turn, gain 1 Strength.
+- **Stone Calendar** (Rare Relic, shared): At the end of turn 7, deal 52 damage to ALL enemies.
+- **Sturdy Clamp** (Rare Relic, shared): Up to 10 Block persists across turns.
+- **The Courier** (Rare Relic, shared): The merchant no longer runs out of cards, relics, or potions and his prices are reduced by 20%.
+- **Tough Bandages** (Rare Relic, silent): Whenever you discard a card during your turn, gain 3 Block.
+- **Toxic Egg** (Rare Relic, shared): Whenever you add a Skill into your Deck, Upgrade it.
+- **Tungsten Rod** (Rare Relic, shared): Whenever you would lose HP, lose 1 less.
+- **Unceasing Top** (Rare Relic, shared): Whenever you have no cards in Hand during your turn, draw a card.
+- **Unsettling Lamp** (Rare Relic, shared): Each combat, the first time you play a card that Debuffs an enemy, double its effect.
+- **Vexing Puzzlebox** (Rare Relic, shared): At the start of each combat, add a random card into your Hand. It costs 0[energy:1].
+- **White Beast Statue** (Rare Relic, shared): Potions always appear in combat rewards.
+- **White Star** (Rare Relic, shared): Elites drop an additional Rare card reward.
+- **Belt Buckle** (Shop Relic, shared): While you have no potions, you have 2 additional Dexterity.
+- **Bread** (Shop Relic, shared): At the start of your first turn, lose [energy:2]. At the start of all other turns, gain [energy:1].
+- **Brimstone** (Shop Relic, ironclad): At the start of your turn, gain Strength and ALL enemies gain Strength.
+- **Burning Sticks** (Shop Relic, shared): The first time each combat you Exhaust a Skill, add a copy of it into your Hand.
+- **Cauldron** (Shop Relic, shared): Upon pickup, brews 5 random potions.
+- **Chemical X** (Shop Relic, shared): The effects of your cost X cards are increased by 2.
+- **Dingy Rug** (Shop Relic, shared): Card rewards can now contain Colorless cards.
+- **Dolly's Mirror** (Shop Relic, shared): Upon pickup, obtain an additional copy of a card in your Deck.
+- **Dragon Fruit** (Shop Relic, shared): Whenever you gain Gold, raise your Max HP by 1.
+- **Ghost Seed** (Shop Relic, shared): Strikes and Defends gain Ethereal.
+- **Gnarled Hammer** (Shop Relic, shared): Upon pickup, Enchant up to 3 Attacks with Sharp 3.
+- **Kifuda** (Shop Relic, shared): Upon pickup, Enchant up to 3 cards with Adroit.
+- **Lava Lamp** (Shop Relic, shared): At the end of combat, Upgrade all card rewards if you took no damage.
+- **Lee's Waffle** (Shop Relic, shared): Upon pickup, raise your Max HP by 7 and heal all of your HP.
+- **Membership Card** (Shop Relic, shared): 50% discount on all products!
+- **Miniature Tent** (Shop Relic, shared): You may choose any number of options at Rest Sites.
+- **Mystic Lighter** (Shop Relic, shared): Enchanted Attacks deal 9 additional damage.
+- **Ninja Scroll** (Shop Relic, silent): At the start of each combat, add 3 Shivs into your Hand.
+- **Orrery** (Shop Relic, shared): Upon pickup, gain 5 card rewards.
+- **Punch Dagger** (Shop Relic, shared): Upon pickup, Enchant an Attack with Momentum 5.
+- **Ringing Triangle** (Shop Relic, shared): Retain your Hand on the first turn of combat.
+- **Royal Stamp** (Shop Relic, shared): Upon pickup, choose an Attack or Skill in your Deck to Enchant with .
+- **Runic Capacitor** (Shop Relic, defect): Start each combat with 3 additional Orb Slots.
+- **Screaming Flagon** (Shop Relic, shared): If you end your turn with no cards in your Hand, deal 20 damage to ALL enemies.
+- **Sling of Courage** (Shop Relic, shared): Start each Elite combat with 2 Strength.
+- **The Abacus** (Shop Relic, shared): Whenever you shuffle your Draw Pile, gain 6 Block.
+- **Toolbox** (Shop Relic, shared): At the start of each combat, choose 1 of 3 random Colorless cards and add the chosen card into your Hand.
+- **Undying Sigil** (Shop Relic, necrobinder): Enemies with at least as much Doom as HP deal 50% less damage.
+- **Vitruvian Minion** (Shop Relic, regent): Cards containing “Minion” deal double damage and gain double Block.
+- **Wing Charm** (Shop Relic, shared): A random card in each card reward is Enchanted with Swift 1.
+- **Black Blood** (Starter Relic, shared): At the end of combat, heal 12 HP.
+- **Bound Phylactery** (Starter Relic, necrobinder): At the start of your turn, Summon 1.
+- **Burning Blood** (Starter Relic, ironclad): At the end of combat, heal 6 HP.
+- **Cracked Core** (Starter Relic, defect): At the start of each combat, Channel 1 Lightning.
+- **Divine Destiny** (Starter Relic, shared): At the start of each combat, gain [star:6].
+- **Divine Right** (Starter Relic, regent): At the start of each combat, gain [star:3].
+- **Infused Core** (Starter Relic, shared): At the start of each combat, Channel 3 Lightning.
+- **Phylactery Unbound** (Starter Relic, shared): At the start of each combat, Summon 5. At the start of your turn, Summon 2.
+- **Ring of the Drake** (Starter Relic, shared): At the start of your first 3 turns, draw 2 additional cards.
+- **Ring of the Snake** (Starter Relic, silent): At the start of each combat, draw 2 additional cards.
+- **Akabeko** (Uncommon Relic, shared): At the start of each combat, gain 8 Vigor.
+- **Bag of Marbles** (Uncommon Relic, shared): At the start of each combat, apply 1 Vulnerable to ALL enemies.
+- **Bellows** (Uncommon Relic, shared): The first Hand you draw each combat is Upgraded.
+- **Book Repair Knife** (Uncommon Relic, necrobinder): Whenever a non-Minion enemy dies to Doom, heal 3 HP.
+- **Bowler Hat** (Uncommon Relic, shared): Gain 20% additional Gold.
+- **Candelabra** (Uncommon Relic, shared): At the start of your 2nd turn, gain [energy:2].
+- **Eternal Feather** (Uncommon Relic, shared): For every 5 cards in your Deck, heal 3 HP whenever you enter a Rest Site.
+- **Funerary Mask** (Uncommon Relic, necrobinder): At the start of each combat, add 3 Souls into your Draw Pile.
+- **Galactic Dust** (Uncommon Relic, regent): For every 10 [star:1] spent, gain 10 Block.
+- **Gold-Plated Cables** (Uncommon Relic, defect): Your rightmost Orb triggers its passive an additional time.
+- **Gremlin Horn** (Uncommon Relic, shared): Whenever an enemy dies, gain [energy:1] and draw 1 card.
+- **Horn Cleat** (Uncommon Relic, shared): At the start of your 2nd turn, gain 14 Block.
+- **Joss Paper** (Uncommon Relic, shared): Every 5 times you Exhaust a card, draw 1 card.
+- **Kusarigama** (Uncommon Relic, shared): Every time you play 3 Attacks in a single turn, deal 6 damage to a random enemy.
+- **Letter Opener** (Uncommon Relic, shared): Every time you play 3 Skills in a single turn, deal 5 damage to ALL enemies.
+- **Lucky Fysh** (Uncommon Relic, shared): Whenever you add a card to your Deck, gain 15 Gold.
+- **Mercury Hourglass** (Uncommon Relic, shared): At the start of your turn, deal 3 damage to ALL enemies.
+- **Miniature Cannon** (Uncommon Relic, shared): Upgraded Attacks deal 3 additional damage.
+- **Nunchaku** (Uncommon Relic, shared): Every time you play 10 Attacks, gain [energy:1].
+- **Orichalcum** (Uncommon Relic, shared): If you end your turn without Block, gain 6 Block.
+- **Ornamental Fan** (Uncommon Relic, shared): Every time you play 3 Attacks in a single turn, gain 4 Block.
+- **Pantograph** (Uncommon Relic, shared): At the start of each Boss combat, heal 25 HP.
+- **Paper Phrog** (Uncommon Relic, ironclad): Enemies with Vulnerable take 75% more damage rather than 50%.
+- **Parrying Shield** (Uncommon Relic, shared): If you end a turn with at least 10 Block, deal 6 damage to a random enemy.
+- **Pear** (Uncommon Relic, shared): Upon pickup, raise your Max HP by 10.
+- **Pen Nib** (Uncommon Relic, shared): Every 10th Attack you play deals double damage.
+- **Petrified Toad** (Uncommon Relic, shared): At the start of each combat, procure a Potion-Shaped Rock.
+- **Planisphere** (Uncommon Relic, shared): Whenever you enter a ? room, heal 4 HP.
+- **Red Mask** (Uncommon Relic, shared): At the start of each combat, apply 1 Weak to ALL enemies.
+- **Regalite** (Uncommon Relic, regent): Whenever you create a Colorless card, gain 2 Block.
+- **Reptile Trinket** (Uncommon Relic, shared): Whenever you use a potion, gain 3 Strength this turn.
+- **Ripple Basin** (Uncommon Relic, shared): If you did not play any Attacks during your turn, gain 4 Block.
+- **Self-Forming Clay** (Uncommon Relic, ironclad): Whenever you lose HP in combat, gain 3 Block next turn.
+- **Sparkling Rouge** (Uncommon Relic, shared): At the start of your 3rd turn, gain 1 Strength and 1 Dexterity.
+- **Stone Cracker** (Uncommon Relic, shared): At the start of Boss combats, Upgrade 3 random cards in your Draw Pile for the rest of combat.
+- **Symbiotic Virus** (Uncommon Relic, defect): At the start of each combat, Channel 1 Dark.
+- **Tingsha** (Uncommon Relic, silent): Whenever you discard a card during your turn, deal 3 damage to a random enemy for each card discarded.
+- **Tuning Fork** (Uncommon Relic, shared): Every time you play 10 Skills, gain 7 Block.
+- **Twisted Funnel** (Uncommon Relic, silent): At the start of each combat, apply 4 Poison to ALL enemies.
+- **Vambrace** (Uncommon Relic, shared): The first time you gain Block from a card each combat, double the amount gained.
+- **VakuuCardSelector** (Unknown, shared): 

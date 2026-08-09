@@ -1,0 +1,89 @@
+# Ironclad Cards
+
+- **Break** (2费, Attack, Ancient, 伤害20): Deal 20 damage. Apply 5 Vulnerable.
+- **Corruption** (3费, Power, Ancient): Skills cost 0 [energy:1]. Whenever you play a Skill, Exhaust it.
+- **Bash** (2费, Attack, Basic, 伤害8): Deal 8 damage. Apply 2 Vulnerable.
+- **Defend** (1费, Skill, Basic, 格挡5): Gain 5 Block.
+- **Strike** (1费, Attack, Basic, 伤害6): Deal 6 damage.
+- **Anger** (0费, Attack, Common, 伤害6): Deal 6 damage. Add a copy of this card into your Discard Pile.
+- **Armaments** (1费, Skill, Common, 格挡5): Gain 5 Block. Upgrade a card in your Hand.
+- **Blood Wall** (2费, Skill, Common, 格挡16): Lose 2 HP. Gain 16 Block.
+- **Bloodletting** (0费, Skill, Common): Lose 3 HP. Gain [energy:2].
+- **Body Slam** (1费, Attack, Common): Deal damage equal to your Block.
+- **Breakthrough** (1费, Attack, Common, 伤害9): Lose 1 HP. Deal 9 damage to ALL enemies.
+- **Cinder** (2费, Attack, Common, 伤害17): Deal 17 damage. Exhaust the top card of your Draw Pile.
+- **Havoc** (1费, Skill, Common): Play the top card of your Draw Pile and Exhaust it.
+- **Headbutt** (1费, Attack, Common, 伤害9): Deal 9 damage. Put a card from your Discard Pile on top of your Draw Pile.
+- **Iron Wave** (1费, Attack, Common, 伤害5/格挡5): Gain 5 Block. Deal 5 damage.
+- **Molten Fist** (1费, Attack, Common, 伤害10): Deal 10 damage. Double the enemy's Vulnerable.
+- **Perfected Strike** (2费, Attack, Common): Deal 8 damage. Deals 2 additional damage for ALL your cards containing “Strike”.
+- **Pommel Strike** (1费, Attack, Common, 伤害9/抽1): Deal 9 damage. Draw 1 card.
+- **Setup Strike** (1费, Attack, Common, 伤害7): Deal 7 damage. Gain 2 Strength this turn.
+- **Shrug It Off** (1费, Skill, Common, 格挡8/抽1): Gain 8 Block. Draw 1 card.
+- **Sword Boomerang** (1费, Attack, Common, 伤害3): Deal 3 damage to a random enemy 3 times.
+- **Thunderclap** (1费, Attack, Common, 伤害4): Deal 4 damage and apply 1 Vulnerable to ALL enemies.
+- **Tremble** (1费, Skill, Common): Apply 2 Vulnerable.
+- **True Grit** (1费, Skill, Common, 格挡7): Gain 7 Block. Exhaust 1 card at random.
+- **Twin Strike** (1费, Attack, Common, 伤害5/打2下): Deal 5 damage twice.
+- **Aggression** (1费, Power, Rare): At the start of your turn, put a random Attack from your Discard Pile into your Hand and Upgrade it.
+- **Barricade** (3费, Power, Rare): Block is not removed at the start of your turn.
+- **Brand** (0费, Skill, Rare): Lose 1 HP. Exhaust 1 card. Gain 1 Strength.
+- **Cascade** (X费, Skill, Rare): Play the top X cards of your Draw Pile.
+- **Colossus** (1费, Skill, Rare, 格挡5): Gain 5 Block. You receive 50% less damage from Vulnerable enemies this turn.
+- **Conflagration** (1费, Attack, Rare): Deal 10 damage to ALL enemies. Deals 2 additional damage for each other Attack you've played this turn.
+- **Crimson Mantle** (1费, Power, Rare): At the start of your turn, lose 1 HP and gain 8 Block.
+- **Cruelty** (1费, Power, Rare): Vulnerable enemies take an additional 25% damage.
+- **Dark Embrace** (2费, Power, Rare): Whenever a card is Exhausted, draw 1 card.
+- **Demon Form** (3费, Power, Rare): At the start of your turn, gain 2 Strength.
+- **Feed** (1费, Attack, Rare, 伤害10): Deal 10 damage. If Fatal, raise your Max HP by 3.
+- **Fiend Fire** (2费, Attack, Rare, 伤害7): Exhaust your Hand. Deal 7 damage for each card Exhausted.
+- **Hellraiser** (2费, Power, Rare): Whenever you draw a card containing “Strike”, it is played against a random enemy.
+- **Impervious** (2费, Skill, Rare, 格挡30): Gain 30 Block.
+- **Juggernaut** (2费, Power, Rare): Whenever you gain Block, deal 5 damage to a random enemy.
+- **Mangle** (3费, Attack, Rare, 伤害15): Deal 15 damage. Enemy loses 10 Strength this turn.
+- **Offering** (0费, Skill, Rare, 抽3): Lose 6 HP. Gain [energy:2]. Draw 3 cards.
+- **One-Two Punch** (1费, Skill, Rare): This turn, your next Attack is played an extra time.
+- **Pact's End** (0费, Attack, Rare, 伤害17/抽3): Can only be played if you have 3 or more cards in your Exhaust Pile. Deal 17 damage to ALL enemies.
+- **Primal Force** (0费, Skill, Rare): Transform all Attacks in your Hand into Giant Rock.
+- **Pyre** (2费, Power, Rare): Gain [energy:1] at the start of each turn.
+- **Stoke** (1费, Skill, Rare): Exhaust your Hand. Draw a card for each card Exhausted.
+- **Tank** (1费, Power, Rare): Take double damage from enemies. Allies take half damage from enemies.
+- **Tear Asunder** (2费, Attack, Rare, 伤害5): Deal 5 damage. Hits an additional time for each time you lost HP this combat.
+- **Thrash** (1费, Attack, Rare, 伤害4/打2下): Deal 4 damage twice. Exhaust a random Attack in your Hand and add its damage to this card.
+- **Unmovable** (2费, Power, Rare): The first time you gain Block from a card each turn, double the amount gained.
+- **Ashen Strike** (1费, Attack, Uncommon): Deal 9 damage. Deals 3 additional damage for each card in your Exhaust Pile.
+- **Battle Trance** (0费, Skill, Uncommon, 抽3): Draw 3 cards. You cannot draw additional cards this turn.
+- **Bludgeon** (3费, Attack, Uncommon, 伤害32): Deal 32 damage.
+- **Bully** (0费, Attack, Uncommon): Deal 6 damage. Deals 2 additional damage for each Vulnerable on the enemy.
+- **Burning Pact** (1费, Skill, Uncommon, 抽2): Exhaust 1 card. Draw 2 cards.
+- **Demonic Shield** (0费, Skill, Uncommon): Lose 1 HP. Give another player Block equal to your Block.
+- **Dismantle** (1费, Attack, Uncommon, 伤害8): Deal 8 damage. If the enemy is Vulnerable, hits twice.
+- **Dominate** (1费, Skill, Uncommon): Gain 1 Strength for each Vulnerable on the enemy.
+- **Drum of Battle** (0费, Power, Uncommon, 抽2): Draw 2 cards. At the start of your turn, Exhaust the top card of your Draw Pile.
+- **Evil Eye** (1费, Skill, Uncommon, 格挡8): Gain 8 Block. Gain another 8 Block if you have Exhausted a card this turn.
+- **Expect a Fight** (2费, Skill, Uncommon): Gain [energy:1] for each Attack in your Hand.
+- **Feel No Pain** (1费, Power, Uncommon): Whenever a card is Exhausted, gain 3 Block.
+- **Fight Me!** (2费, Attack, Uncommon, 伤害5): Deal 5 damage twice. Gain 2 Strength. The enemy gains 1 Strength.
+- **Flame Barrier** (2费, Skill, Uncommon, 格挡12): Gain 12 Block. Whenever you are attacked this turn, deal 4 damage back.
+- **Forgotten Ritual** (1费, Skill, Uncommon): If you Exhausted a card this turn, gain [energy:3].
+- **Grapple** (1费, Attack, Uncommon, 伤害7): Deal 7 damage. Whenever you gain Block this turn, deal 5 damage to the enemy.
+- **Hemokinesis** (1费, Attack, Uncommon, 伤害14): Lose 2 HP. Deal 14 damage.
+- **Howl from Beyond** (3费, Attack, Uncommon, 伤害16): Deal 16 damage to ALL enemies. At the start of your turn, plays from the Exhaust Pile.
+- **Infernal Blade** (1费, Skill, Uncommon): Add a random Attack into your Hand. It's free to play this turn.
+- **Inferno** (1费, Power, Uncommon): At the start of your turn, lose 1 HP. Whenever you lose HP on your turn, deal 6 damage to ALL enemies.
+- **Inflame** (1费, Power, Uncommon): Gain 2 Strength.
+- **Juggling** (1费, Power, Uncommon): Add a copy of the third Attack you play each turn into your Hand.
+- **Pillage** (1费, Attack, Uncommon, 伤害6): Deal 6 damage. Draw cards until you draw a non-Attack card.
+- **Rage** (0费, Skill, Uncommon): Whenever you play an Attack this turn, gain 3 Block.
+- **Rampage** (1费, Attack, Uncommon, 伤害9): Deal 9 damage. Increase this card's damage by 5 this combat.
+- **Rupture** (1费, Power, Uncommon): Whenever you lose HP on your turn, gain 1 Strength.
+- **Second Wind** (1费, Skill, Uncommon, 格挡5): Exhaust all non-Attack cards in your Hand. Gain 5 Block for each card Exhausted.
+- **Spite** (0费, Attack, Uncommon, 伤害6/抽1): Deal 6 damage. If you lost HP this turn, draw 1 card.
+- **Stampede** (2费, Power, Uncommon): At the end of your turn, 1 random Attack in your Hand is played against a random enemy.
+- **Stomp** (3费, Attack, Uncommon, 伤害12): Deal 12 damage to ALL enemies. Costs 1 less [energy:1] for each Attack played this turn.
+- **Stone Armor** (1费, Power, Uncommon): Gain 4 Plating.
+- **Taunt** (1费, Skill, Uncommon, 格挡7): Gain 7 Block. Apply 1 Vulnerable.
+- **Unrelenting** (2费, Attack, Uncommon, 伤害12): Deal 12 damage. The next Attack you play costs 0 [energy:1].
+- **Uppercut** (2费, Attack, Uncommon, 伤害13): Deal 13 damage. Apply 1 Weak. Apply 1 Vulnerable.
+- **Vicious** (1费, Power, Uncommon, 抽1): Whenever you apply Vulnerable, draw 1 card.
+- **Whirlwind** (X费, Attack, Uncommon, 伤害5): Deal 5 damage to ALL enemies X times.

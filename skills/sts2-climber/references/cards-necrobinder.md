@@ -1,0 +1,90 @@
+# Necrobinder Cards
+
+- **Forbidden Grimoire** (2费, Power, Ancient): At the end of combat, you may remove a card from your Deck.
+- **Protector** (1费, Attack, Ancient): Osty deals 11 damage. Deals additional damage equal to Osty's Max HP.
+- **Bodyguard** (1费, Skill, Basic): Summon 5.
+- **Defend** (1费, Skill, Basic, 格挡5): Gain 5 Block.
+- **Strike** (1费, Attack, Basic, 伤害6): Deal 6 damage.
+- **Unleash** (1费, Attack, Basic): Osty deals 7 damage. Deals additional damage equal to Osty's current HP.
+- **Afterlife** (1费, Skill, Common): Summon 6.
+- **Blight Strike** (1费, Attack, Common, 伤害8): Deal 8 damage. Apply Doom equal to damage dealt.
+- **Defile** (1费, Attack, Common, 伤害13): Deal 13 damage.
+- **Defy** (1费, Skill, Common, 格挡6): Gain 6 Block. Apply 1 Weak.
+- **Drain Power** (1费, Attack, Common, 伤害10/抽2): Deal 10 damage. Upgrade 2 random cards in your Discard Pile.
+- **Fear** (1费, Attack, Common, 伤害7): Deal 7 damage. Apply 1 Vulnerable.
+- **Flatten** (2费, Attack, Common, 伤害12): Osty deals 12 damage. This card costs 0 [energy:1] if Osty has attacked this turn.
+- **Grave Warden** (1费, Skill, Common, 格挡8/抽1): Gain 8 Block. Add a Soul into your Draw Pile.
+- **Graveblast** (1费, Attack, Common, 伤害4): Deal 4 damage. Put a card from your Discard Pile into your Hand.
+- **Invoke** (1费, Skill, Common): Next turn, Summon 2 and gain [energy:2].
+- **Negative Pulse** (1费, Skill, Common, 格挡5): Gain 5 Block. Apply 7 Doom to ALL enemies.
+- **Poke** (0费, Attack, Common, 伤害6): Osty deals 6 damage.
+- **Pull Aggro** (2费, Skill, Common, 格挡7): Summon 4. Gain 7 Block.
+- **Reap** (3费, Attack, Common, 伤害27): Deal 27 damage.
+- **Reave** (1费, Attack, Common, 伤害9/抽1): Deal 9 damage. Add a Soul into your Draw Pile.
+- **Scourge** (1费, Skill, Common, 抽1): Apply 13 Doom. Draw 1 card.
+- **Sculpting Strike** (1费, Attack, Common, 伤害8): Deal 8 damage. Add Ethereal to a card in your Hand.
+- **Snap** (1费, Attack, Common, 伤害7): Osty deals 7 damage. Add Retain to a card in your Hand.
+- **Sow** (1费, Attack, Common, 伤害8): Deal 8 damage to ALL enemies.
+- **Wisp** (0费, Skill, Common): Gain [energy:1].
+- **Banshee's Cry** (6费, Attack, Rare, 伤害33): Deal 33 damage to ALL enemies. Costs [energy:2] less for each Ethereal card played this combat.
+- **Call of the Void** (1费, Power, Rare, 抽1): At the start of your turn, add 1 random card into your Hand. It gains Ethereal.
+- **Demesne** (3费, Power, Rare, 抽1): At the start of your turn, gain [energy:1] and draw 1 additional card.
+- **Devour Life** (1费, Power, Rare): Whenever you play a Soul, Summon 1.
+- **Eidolon** (2费, Skill, Rare): Exhaust your Hand. If 9 cards were Exhausted this way, gain 1 Intangible.
+- **End of Days** (3费, Skill, Rare): Apply 29 Doom to ALL enemies. Kill enemies with at least as much Doom as HP.
+- **Eradicate** (X费, Attack, Rare, 伤害11): Deal 11 damage X times.
+- **Glimpse Beyond** (1费, Skill, Rare, 抽3): ALL players add 3 Souls into their Draw Pile.
+- **Hang** (1费, Attack, Rare, 伤害10): Deal 10 damage. Double the damage ALL Hang cards deal to this enemy.
+- **Misery** (0费, Attack, Rare, 伤害7): Deal 7 damage. Apply any debuffs on the enemy to ALL other enemies.
+- **Necro Mastery** (2费, Power, Rare): Summon 5. Whenever Osty loses HP, ALL enemies lose that much HP as well.
+- **Neurosurge** (0费, Power, Rare, 抽2): Gain [energy:3]. Draw 2 cards. At the start of your turn, apply 3 Doom to yourself.
+- **Oblivion** (0费, Skill, Rare): Whenever you play a card this turn, apply 3 Doom to the enemy.
+- **Reanimate** (3费, Skill, Rare): Summon 20.
+- **Reaper Form** (3费, Power, Rare): Whenever Attacks deal damage, they also apply that much Doom.
+- **Sacrifice** (1费, Skill, Rare): If Osty is alive, he dies and you gain Block equal to double his Max HP.
+- **Seance** (0费, Skill, Rare, 抽1): Transform a card in your Draw Pile into Soul.
+- **Sentry Mode** (2费, Power, Rare): At the start of your turn, add 1 Sweeping Gaze into your Hand.
+- **Shared Fate** (0费, Skill, Rare): Lose 2 Strength. Enemy loses 2 Strength.
+- **Soul Storm** (1费, Attack, Rare): Deal 11 damage. Deals 2 additional damage for each Soul in your Exhaust Pile.
+- **Spirit of Ash** (1费, Power, Rare): Whenever you play an Ethereal card, gain 4 Block.
+- **Squeeze** (3费, Attack, Rare): Osty deals 30 damage. Deals 5 additional damage for ALL your other Osty Attacks.
+- **The Scythe** (2费, Attack, Rare, 伤害13): Deal 13 damage. Permanently increase this card's damage by 3.
+- **Time's Up** (2费, Attack, Rare): Deal damage equal to the enemy's Doom.
+- **Transfigure** (X费, Skill, Rare): Add Replay to a card in your Hand. It costs an extra [energy:1].
+- **Undeath** (0费, Skill, Rare, 格挡7): Gain 7 Block. Add a copy of this card into your Discard Pile.
+- **Bone Shards** (1费, Attack, Uncommon, 伤害9/格挡9): If Osty is alive, he deals 9 damage to ALL enemies and you gain 9 Block. Osty dies.
+- **Borrowed Time** (0费, Skill, Uncommon): Apply 3 Doom to yourself. Gain [energy:1].
+- **Bury** (4费, Attack, Uncommon, 伤害52): Deal 52 damage.
+- **Calcify** (1费, Power, Uncommon): Osty's attacks deal 4 additional damage.
+- **Capture Spirit** (1费, Skill, Uncommon, 伤害3/抽3): Enemy loses 3 HP. Add 3 Souls into your Draw Pile.
+- **Cleanse** (1费, Skill, Uncommon): Summon 3. Exhaust 1 card from your Draw Pile.
+- **Countdown** (1费, Power, Uncommon): At the start of your turn, apply 6 Doom to a random enemy.
+- **Danse Macabre** (1费, Power, Uncommon): Whenever you play a card that costs [energy:2] or more, gain 3 Block.
+- **Death March** (1费, Attack, Uncommon): Deal 11 damage. Deals 3 additional damage for each card drawn during your turn.
+- **Death's Door** (1费, Skill, Uncommon, 格挡6): Gain 6 Block. If you applied Doom this turn, gain Block 2 additional times.
+- **Deathbringer** (2费, Skill, Uncommon): Apply 21 Doom and 1 Weak to ALL enemies.
+- **Debilitate** (1费, Attack, Uncommon, 伤害7): Deal 7 damage. Vulnerable and Weak are twice as effective against the enemy for the next 3 turns.
+- **Delay** (2费, Skill, Uncommon, 格挡11): Gain 11 Block. Next turn, gain [energy:1].
+- **Dirge** (X费, Skill, Uncommon): Summon 3 X times. Add X Souls into your Draw Pile.
+- **Dredge** (1费, Skill, Uncommon, 抽3): Put 3 cards from your Discard Pile into your Hand.
+- **Enfeebling Touch** (1费, Skill, Uncommon): Enemy loses 8 Strength this turn.
+- **Fetch** (0费, Attack, Uncommon, 伤害3/抽1): Osty deals 3 damage. If this is the first time this card has been played this turn, draw 1 card.
+- **Friendship** (1费, Power, Uncommon): Lose 2 Strength. Gain [energy:1] at the start of each turn.
+- **Haunt** (1费, Power, Uncommon): Whenever you play a Soul, a random enemy loses 6 HP.
+- **High Five** (2费, Attack, Uncommon, 伤害11): Osty deals 11 damage and applies 2 Vulnerable to ALL enemies.
+- **Legion of Bone** (2费, Skill, Uncommon): ALL players Summon 6.
+- **Lethality** (1费, Power, Uncommon): The first Attack each turn deals 50% additional damage.
+- **Melancholy** (3费, Skill, Uncommon, 格挡13): Gain 13 Block. Reduce this card's cost by [energy:1] whenever ANYONE dies.
+- **No Escape** (1费, Skill, Uncommon): Apply 10 Doom, plus an additional 5 Doom for every 10 Doom already on this enemy.
+- **Pagestorm** (1费, Power, Uncommon, 抽1): Whenever you draw an Ethereal card, draw 1 card.
+- **Parse** (1费, Skill, Uncommon, 抽3): Draw 3 cards.
+- **Pull from Below** (1费, Attack, Uncommon, 伤害5): Deal 5 damage for each Ethereal card played this combat.
+- **Putrefy** (1费, Skill, Uncommon): Apply 2 Weak. Apply 2 Vulnerable.
+- **Rattle** (1费, Attack, Uncommon, 伤害7): Osty deals 7 damage. Hits an additional time for each other time he has attacked this turn.
+- **Right Hand Hand** (0费, Attack, Uncommon, 伤害4): Osty deals 4 damage. Whenever you play a card that costs [energy:2] or more, return this to your Hand from the Discard Pile.
+- **Severance** (2费, Attack, Uncommon, 伤害13): Deal 13 damage. Add a Soul into your Draw Pile, Hand, and Discard Pile.
+- **Shroud** (1费, Power, Uncommon, 格挡2): Whenever you apply Doom, gain 2 Block.
+- **Sic 'Em** (1费, Attack, Uncommon, 伤害5): Osty deals 5 damage. Whenever Osty hits this enemy this turn, Summon 2.
+- **Sleight of Flesh** (2费, Power, Uncommon): Whenever you apply a debuff to an enemy, they take 9 damage.
+- **Spur** (1费, Skill, Uncommon): Summon 3. Osty heals 5 HP.
+- **Veilpiercer** (1费, Attack, Uncommon, 伤害10): Deal 10 damage. The next Ethereal card you play costs 0 [energy:1].

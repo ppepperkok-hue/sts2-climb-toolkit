@@ -1,0 +1,4 @@
+interface:
+  display_name: "杀戮尖塔2 爬塔大师"
+  short_description: "杀戮尖塔2全内容知识库：卡组构筑、路线决策、精英Boss对策与AI Agent实战"
+  default_prompt: "Use -climber to play Slay the Spire 2 through the STS2 AI Agent mod and make strong climb decisions."

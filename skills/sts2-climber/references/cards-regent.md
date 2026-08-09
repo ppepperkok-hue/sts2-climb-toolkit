@@ -1,0 +1,90 @@
+# Regent Cards
+
+- **Meteor Shower** (0费, Attack, Ancient, 伤害14): Deal 14 damage to ALL enemies. Apply 2 Weak and Vulnerable to ALL enemies.
+- **The Sealed Throne** (1费, Power, Ancient): Whenever you play a card, gain [star:1].
+- **Defend** (1费, Skill, Basic, 格挡5): Gain 5 Block.
+- **Falling Star** (0费, Attack, Basic, 伤害7): Deal 7 damage. Apply 1 Weak. Apply 1 Vulnerable.
+- **Strike** (1费, Attack, Basic, 伤害6): Deal 6 damage.
+- **Venerate** (1费, Skill, Basic): Gain [star:2].
+- **Astral Pulse** (0费, Attack, Common, 伤害14): Deal 14 damage to ALL enemies.
+- **BEGONE!** (1费, Attack, Common, 伤害4): Deal 4 damage. Choose a card in your Hand to Transform into Minion Dive Bomb.
+- **Celestial Might** (2费, Attack, Common, 伤害6): Deal 6 damage 3 times.
+- **Cloak of Stars** (0费, Skill, Common, 格挡7): Gain 7 Block.
+- **Collision Course** (0费, Attack, Common, 伤害9): Deal 9 damage. Add a Debris into your Hand.
+- **Cosmic Indifference** (1费, Skill, Common, 格挡6): Gain 6 Block. Put a card from your Discard Pile on top of your Draw Pile.
+- **Crescent Spear** (1费, Attack, Common): Deal 8 damage. Deals 2 additional damage for ALL your cards that have a [star:1] cost.
+- **Crush Under** (1费, Attack, Common, 伤害7): Deal 7 damage to ALL enemies. All enemies lose 1 Strength this turn.
+- **Gather Light** (1费, Skill, Common, 格挡7): Gain 7 Block. Gain [star:1].
+- **Glitterstream** (2费, Skill, Common, 格挡11): Gain 11 Block. Next turn, gain 4 Block.
+- **Glow** (1费, Skill, Common, 抽2): Gain [star:1]. Draw 2 cards.
+- **Guiding Star** (1费, Attack, Common, 伤害12/抽2): Deal 12 damage. Next turn, draw 2 cards.
+- **Hidden Cache** (1费, Skill, Common): Gain [star:1]. Next turn, gain [star:3].
+- **Know Thy Place** (0费, Skill, Common): Apply 1 Weak. Apply 1 Vulnerable.
+- **Patter** (1费, Skill, Common, 格挡8): Gain 8 Block. Gain 2 Vigor.
+- **Photon Cut** (1费, Attack, Common, 伤害10/抽1): Deal 10 damage. Draw 1 card. Put 1 card from your Hand on top of your Draw Pile.
+- **Refine Blade** (1费, Skill, Common): Forge 6. Next turn, gain [energy:1].
+- **Solar Strike** (1费, Attack, Common, 伤害8): Deal 8 damage. Gain [star:1].
+- **Spoils of Battle** (1费, Skill, Common): Forge 10.
+- **Wrought in War** (1费, Attack, Common, 伤害7): Deal 7 damage. Forge 5.
+- **Arsenal** (1费, Power, Rare): Whenever you play a Colorless card, gain 1 Strength.
+- **Beat into Shape** (1费, Attack, Rare, 伤害5): Deal 5 damage. Forge X. Forges an additional 5 for every other time you've hit the enemy this turn.
+- **Big Bang** (0费, Skill, Rare, 抽1): Draw 1 card. Gain [energy:1]. Gain [star:1]. Forge 5.
+- **Bombardment** (3费, Attack, Rare, 伤害18): Deal 18 damage. At the start of your turn, plays from the Exhaust Pile.
+- **Bundle of Joy** (2费, Skill, Rare, 抽3): Add 3 random Colorless cards into your Hand.
+- **Comet** (0费, Attack, Rare, 伤害33): Deal 33 damage. Apply 3 Weak. Apply 3 Vulnerable.
+- **Crash Landing** (1费, Attack, Rare, 伤害21): Deal 21 damage to ALL enemies. Fill your Hand with Debris.
+- **Decisions, Decisions** (0费, Skill, Rare, 抽3): Draw 3 cards. Choose a Skill in your Hand and play it 3 times.
+- **Dying Star** (1费, Attack, Rare, 伤害9): Deal 9 damage to ALL enemies. ALL enemies lose 9 Strength this turn.
+- **Foregone Conclusion** (1费, Skill, Rare, 抽2): Next turn, put 2 cards from your Draw Pile into your Hand.
+- **GUARDS!!!** (2费, Skill, Rare): Transform any number of cards in your Hand into Minion Sacrifice.
+- **Genesis** (2费, Power, Rare): At the start of your turn, gain [star:2].
+- **Hammer Time** (2费, Power, Rare): Whenever you Forge, all allies Forge as well.
+- **Heavenly Drill** (X费, Attack, Rare, 伤害8): Deal 8 damage X times. Double X if it's 4 or more.
+- **Heirloom Hammer** (2费, Attack, Rare, 伤害17): Deal 17 damage. Choose a Colorless card in your Hand. Add a copy of that card into your Hand.
+- **I Am Invincible** (1费, Skill, Rare, 格挡9): Gain 9 Block. At the end of your turn, if this is on top of your Draw Pile, play it.
+- **Make It So** (0费, Attack, Rare, 伤害6/抽3): Deal 6 damage. Every 3 Skills you play in a turn, put this into your Hand.
+- **Monarch's Gaze** (3费, Power, Rare): Whenever you attack an enemy, it loses 1 Strength this turn.
+- **Neutron Aegis** (1费, Power, Rare): Gain 8 Plating.
+- **Royalties** (1费, Power, Rare): At the end of combat, gain 30 Gold.
+- **Seeking Edge** (1费, Power, Rare): Forge 7. Sovereign Blade now deals damage to ALL enemies.
+- **Seven Stars** (2费, Attack, Rare, 伤害7): Deal 7 damage to ALL enemies 7 times.
+- **Sword Sage** (2费, Power, Rare): Increase the cost of Sovereign Blade by 1. Sovereign Blade now hits an additional time.
+- **The Smith** (1费, Skill, Rare): Forge 30.
+- **Tyranny** (1费, Power, Rare): At the start of your turn, draw 1 card and Exhaust 1 card from your Hand.
+- **Void Form** (3费, Power, Rare): End your turn. The first 2 cards you play each turn are free to play.
+- **Alignment** (0费, Skill, Uncommon): Gain [energy:2].
+- **Black Hole** (1费, Power, Uncommon): Whenever you spend or gain [star:1], deal 3 damage to ALL enemies.
+- **Bulwark** (2费, Skill, Uncommon, 格挡13): Gain 13 Block. Forge 10.
+- **CHARGE!!** (1费, Skill, Uncommon, 抽2): Choose 2 cards in your Draw Pile to Transform into Minion Strikes.
+- **Child of the Stars** (1费, Power, Uncommon): Whenever you spend [star:1], gain 2 Block for each [star:1] spent.
+- **Conqueror** (1费, Skill, Uncommon): Forge 3. Sovereign Blade deals double damage to the enemy this turn.
+- **Convergence** (1费, Skill, Uncommon): Next turn, gain [energy:1] and [star:1]. Retain your Hand this turn.
+- **Devastate** (1费, Attack, Uncommon, 伤害30): Deal 30 damage.
+- **Furnace** (1费, Power, Uncommon): At the start of your turn, Forge 4.
+- **Gamma Blast** (0费, Attack, Uncommon, 伤害13): Deal 13 damage. Apply 2 Weak. Apply 2 Vulnerable.
+- **Glimmer** (1费, Skill, Uncommon, 抽3): Draw 3 cards. Put 1 card from your Hand on top of your Draw Pile.
+- **Hegemony** (2费, Attack, Uncommon, 伤害15): Deal 15 damage. Next turn, gain [energy:2].
+- **Kingly Kick** (4费, Attack, Uncommon, 伤害24): Deal 24 damage. Whenever you draw this card, reduce its cost by 1.
+- **Kingly Punch** (1费, Attack, Uncommon, 伤害8): Deal 8 damage. Whenever you draw this card, increase its damage by 3 this combat.
+- **Knockout Blow** (3费, Attack, Uncommon, 伤害30): Deal 30 damage. If this kills an enemy, gain [star:5].
+- **Largesse** (0费, Skill, Uncommon): Another player adds 1 random Colorless card to their Hand.
+- **Lunar Blast** (0费, Attack, Uncommon, 伤害4): Deal 4 damage for each Skill already played this turn.
+- **Manifest Authority** (1费, Skill, Uncommon, 格挡7): Gain 7 Block. Add 1 random Colorless card into your Hand.
+- **Monologue** (0费, Skill, Uncommon): Whenever you play a card this turn, gain 1 Strength this turn.
+- **Orbit** (2费, Power, Uncommon): Every [energy:4] you spend, gain [energy:1].
+- **Pale Blue Dot** (1费, Power, Uncommon, 抽1): If you play 5 or more cards in a turn, draw 1 card at the start of your next turn.
+- **Parry** (1费, Power, Uncommon): Whenever you play Sovereign Blade, gain 6 Block.
+- **Particle Wall** (0费, Skill, Uncommon, 格挡9): Gain 9 Block. Return this card to your Hand.
+- **Pillar of Creation** (1费, Power, Uncommon, 格挡3): Whenever you create a card, gain 3 Block.
+- **Prophesize** (2费, Skill, Uncommon, 抽6): Draw 6 cards.
+- **Quasar** (0费, Skill, Uncommon): Choose 1 of 3 random Colorless cards to add into your Hand.
+- **Radiate** (0费, Attack, Uncommon, 伤害3): Deal 3 damage to ALL enemies for each [star:1] gained this turn.
+- **Reflect** (1费, Skill, Uncommon, 格挡17): Gain 17 Block. Blocked attack damage is reflected to your attacker this turn.
+- **Resonance** (1费, Skill, Uncommon): Gain 1 Strength. ALL enemies lose 1 Strength.
+- **Royal Gamble** (0费, Skill, Uncommon): Gain 9 [star:1].
+- **Shining Strike** (1费, Attack, Uncommon, 伤害8): Deal 8 damage. Gain [star:2]. Put this card on top of your Draw Pile.
+- **Spectrum Shift** (2费, Power, Uncommon, 抽1): At the start of your turn, add 1 random Colorless card into your Hand.
+- **Stardust** (0费, Attack, Uncommon, 伤害5): Deal 5 damage to a random enemy X times.
+- **Summon Forth** (1费, Skill, Uncommon): Forge 8. Put Sovereign Blade into your Hand from anywhere.
+- **Supermassive** (1费, Attack, Uncommon): Deal 8 damage. Deals 3 additional damage for each card you created this combat.
+- **Terraforming** (1费, Skill, Uncommon): Gain 6 Vigor.

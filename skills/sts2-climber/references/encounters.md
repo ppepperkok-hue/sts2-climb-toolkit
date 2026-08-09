@@ -1,0 +1,89 @@
+# Encounters
+
+- **Battleworn Dummy** (None, Monster): Battle Friend V1.0, Battle Friend V2.0, Battle Friend V3.0
+- **Mysterious Knight** (None, Monster): Mysterious Knight
+- **Punch Constructs** (None, Monster): Punch Construct
+- **The Architect** (None, Monster): The Architect
+- **The Merchant???** (None, Monster): The Merchant???
+- **Wrigglers** (None, Monster): Wriggler
+- **A Lone Nibbit** (Act 1 - Overgrowth, Monster): Nibbit
+- **A Pair of Nibbits** (Act 1 - Overgrowth, Monster): Nibbit
+- **Bygone Effigy** (Act 1 - Overgrowth, Elite): Bygone Effigy
+- **Byrdonis** (Act 1 - Overgrowth, Elite): Byrdonis
+- **Ceremonial Beast** (Act 1 - Overgrowth, Boss): Ceremonial Beast
+- **Cubex Construct** (Act 1 - Overgrowth, Monster): Cubex Construct
+- **Fogmog** (Act 1 - Overgrowth, Monster): Eye With Teeth, Fogmog
+- **Fuzzy Wurm Crawler** (Act 1 - Overgrowth, Monster): Fuzzy Wurm Crawler
+- **Group of Slimes** (Act 1 - Overgrowth, Monster): Leaf Slime (M), Leaf Slime (S), Twig Slime (M), Twig Slime (S)
+- **Inklets** (Act 1 - Overgrowth, Monster): Inklet
+- **Mawler** (Act 1 - Overgrowth, Monster): Mawler
+- **Overgrowth Crawlers** (Act 1 - Overgrowth, Monster): Fuzzy Wurm Crawler, Shrinker Beetle
+- **Overgrowth Flora** (Act 1 - Overgrowth, Monster): Flyconid, Snapping Jaxfruit
+- **Phrog Parasite** (Act 1 - Overgrowth, Elite): Phrog Parasite, Wriggler
+- **Ruby Raiders** (Act 1 - Overgrowth, Monster): Assassin Raider, Axe Raider, Brute Raider, Crossbow Raider, Tracker Raider
+- **Shrinker Beetle** (Act 1 - Overgrowth, Monster): Shrinker Beetle
+- **Shroom and Slime** (Act 1 - Overgrowth, Monster): Flyconid, Leaf Slime (M), Twig Slime (M)
+- **Strangler and Friend** (Act 1 - Overgrowth, Monster): Leaf Slime (M), Leaf Slime (S), Slithering Strangler, Snapping Jaxfruit, Twig Slime (M), Twig Slime (S)
+- **Swarm of Slimes** (Act 1 - Overgrowth, Monster): Leaf Slime (M), Leaf Slime (S), Twig Slime (M), Twig Slime (S)
+- **The Kin** (Act 1 - Overgrowth, Boss): Kin Follower, Kin Priest
+- **Vantom** (Act 1 - Overgrowth, Boss): Vantom
+- **Vine Shambler** (Act 1 - Overgrowth, Monster): Vine Shambler
+- **An Automaton Pair** (Act 2 - Hive, Monster): Chomper
+- **Bowlbug Swarm** (Act 2 - Hive, Monster): Bowlbug (Egg), Bowlbug (Nectar), Bowlbug (Rock), Bowlbug (Silk)
+- **Bowlbugs** (Act 2 - Hive, Monster): Bowlbug (Egg), Bowlbug (Nectar), Bowlbug (Rock)
+- **Entomancer** (Act 2 - Hive, Elite): Entomancer
+- **Exoskeletons** (Act 2 - Hive, Monster): Exoskeleton
+- **Hunter Killer** (Act 2 - Hive, Monster): Hunter Killer
+- **Infested Prism** (Act 2 - Hive, Elite): Infested Prism
+- **Kaiser Crab** (Act 2 - Hive, Boss): Crusher, Rocket
+- **Knowledge Demon** (Act 2 - Hive, Boss): Knowledge Demon
+- **Louse Progenitor** (Act 2 - Hive, Monster): Louse Progenitor
+- **Many Exoskeletons** (Act 2 - Hive, Monster): Exoskeleton
+- **Mass of Mytes** (Act 2 - Hive, Monster): Myte
+- **Ovicopter** (Act 2 - Hive, Monster): Ovicopter, Tough Egg
+- **Slumber Party** (Act 2 - Hive, Monster): Bowlbug (Rock), Bowlbug (Silk), Slumbering Beetle
+- **Spiny Toad** (Act 2 - Hive, Monster): Spiny Toad
+- **The Decimillipede** (Act 2 - Hive, Elite): Decimillipede Segment Back, Decimillipede Segment Front, Decimillipede Segment Middle
+- **The Insatiable** (Act 2 - Hive, Boss): The Insatiable
+- **The Obscura** (Act 2 - Hive, Monster): The Obscura
+- **Thieving Hopper** (Act 2 - Hive, Monster): Thieving Hopper
+- **Tunneler** (Act 2 - Hive, Monster): Tunneler
+- **Tunneling Twosome** (Act 2 - Hive, Monster): Bowlbug (Egg), Bowlbug (Silk), Tunneler
+- **A Lone Globe Head** (Act 3 - Glory, Monster): Globe Head
+- **Bot Buddies** (Act 3 - Glory, Monster): Axebot
+- **Construct Menagerie** (Act 3 - Glory, Monster): Cubex Construct, Punch Construct
+- **Devoted Sculptor** (Act 3 - Glory, Monster): Devoted Sculptor
+- **Fabricator** (Act 3 - Glory, Monster): Fabricator
+- **Frog Knight** (Act 3 - Glory, Monster): Frog Knight
+- **Knight Gang** (Act 3 - Glory, Elite): Flail Knight, Magi Knight, Spectral Knight
+- **Lost and Forgotten** (Act 3 - Glory, Monster): The Forgotten, The Lost
+- **Many Scrolls of Biting** (Act 3 - Glory, Monster): Scroll of Biting
+- **Mecha Knight** (Act 3 - Glory, Elite): Mecha Knight
+- **Owl Magistrate** (Act 3 - Glory, Monster): Owl Magistrate
+- **Queen** (Act 3 - Glory, Boss): Queen, Torch Head Amalgam
+- **Scrolls of Biting** (Act 3 - Glory, Monster): Scroll of Biting
+- **Slimed Berserker** (Act 3 - Glory, Monster): Slimed Berserker
+- **Soul Nexus** (Act 3 - Glory, Elite): Soul Nexus
+- **Test Subject** (Act 3 - Glory, Boss): Test Subject #C{Count}
+- **The Doormaker** (Act 3 - Glory, Boss): Door, Doormaker
+- **Turret Operator** (Act 3 - Glory, Monster): Living Shield, Turret Operator
+- **Corpse Slugs** (Underdocks, Monster): Corpse Slug
+- **Cultists** (Underdocks, Monster): Calcified Cultist, Damp Cultist
+- **Evil Gas** (Underdocks, Monster): Gas Bomb, Living Fog
+- **Fossil Stalker** (Underdocks, Monster): Fossil Stalker
+- **Haunted Ship** (Underdocks, Monster): Haunted Ship
+- **Lagavulin Matriarch** (Underdocks, Boss): Lagavulin Matriarch
+- **Many Corpse Slugs** (Underdocks, Monster): Corpse Slug
+- **Phantasmal Gardeners** (Underdocks, Elite): Phantasmal Gardener
+- **Punch Construct** (Underdocks, Monster): Punch Construct
+- **Seapunk** (Underdocks, Monster): Seapunk
+- **Sewer Clam** (Underdocks, Monster): Sewer Clam
+- **Skulking Colony** (Underdocks, Elite): Skulking Colony
+- **Sludge Spinner** (Underdocks, Monster): Sludge Spinner
+- **Soul Fysh** (Underdocks, Boss): Soul Fysh
+- **Terror Eel** (Underdocks, Elite): Terror Eel
+- **Toadpoles** (Underdocks, Monster): Toadpole
+- **Two Gremlins in a Trenchcoat** (Underdocks, Monster): Fat Gremlin, Gremlin Merc, Sneaky Gremlin
+- **Two-Tailed Rats** (Underdocks, Monster): Two-Tailed Rat
+- **Underdocks Wildlife** (Underdocks, Monster): Calcified Cultist, Toadpole
+- **Waterfall Giant** (Underdocks, Boss): Waterfall Giant

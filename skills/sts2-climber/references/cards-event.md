@@ -1,0 +1,29 @@
+# Event Cards
+
+- **Apotheosis** (2费, Skill, Ancient): Upgrade ALL your cards.
+- **Apparition** (1费, Skill, Ancient): Gain 1 Intangible.
+- **Brightest Flame** (0费, Skill, Ancient, 抽2): Gain [energy:2]. Draw 2 cards. Lose 1 Max HP.
+- **Maul** (1费, Attack, Ancient, 伤害5/打2下): Deal 5 damage twice. Increase the damage of ALL Maul cards by 1 this combat.
+- **Neow's Fury** (1费, Attack, Ancient, 伤害10/抽2): Deal 10 damage. Put 2 random cards from your Discard Pile into your Hand.
+- **Relax** (3费, Skill, Ancient, 格挡15/抽2): Gain 15 Block. Next turn, draw 2 cards and gain [energy:2].
+- **Whistle** (3费, Attack, Ancient, 伤害33): Deal 33 damage. Stun the enemy.
+- **Wish** (0费, Skill, Ancient): Put a card from your Draw Pile into your Hand.
+- **Byrd Swoop** (0费, Attack, Event, 伤害14): Deal 14 damage.
+- **Caltrops** (1费, Power, Event): Whenever you are attacked, deal 3 damage back.
+- **Clash** (0费, Attack, Event, 伤害14): Can only be played if every card in your Hand is an Attack. Deal 14 damage.
+- **Distraction** (1费, Skill, Event): Add a random Skill into your Hand. It's free to play this turn.
+- **Dual Wield** (1费, Skill, Event, 抽1): Choose an Attack or Power card. Add copies|a copy} of that card into your Hand.
+- **Enlightenment** (0费, Skill, Event): Reduce the cost of ALL cards in your Hand to 1 this turn.
+- **Entrench** (2费, Skill, Event): Double your Block.
+- **Exterminate** (1费, Attack, Event, 伤害3): Deal 3 damage 4 times to ALL enemies.
+- **Feeding Frenzy** (0费, Skill, Event): Gain 5 Strength this turn.
+- **Hello World** (1费, Power, Event): At the start of your turn, add a random Common card into your Hand.
+- **Mad Science** (1费, Attack, Event, 伤害12/格挡8): Skill|Power):Deal 12.|Gain 8 Block.|}|Skill|Power): ???| ???|???}
+- **Metamorphosis** (2费, Skill, Event, 抽3): Add 3 random Attacks into your Draw Pile. They're free to play this combat.
+- **Outmaneuver** (1费, Skill, Event): Next turn, gain [energy:2].
+- **Peck** (1费, Attack, Event, 伤害2): Deal 2 damage 3 times.
+- **Rebound** (1费, Attack, Event, 伤害9): Deal 9 damage. Put the next card you play this turn on top of your Draw Pile.
+- **Squash** (1费, Attack, Event, 伤害10): Deal 10 damage. Apply 2 Vulnerable.
+- **Stack** (1费, Skill, Event): Gain Block equal to the number of cards in your Discard Pile|}.
+- **Toric Toughness** (2费, Skill, Event, 格挡5): Gain 5 Block. Gain 5 Block at the start of the next 2 turns.
+- **Rip and Tear** (1费, Attack, Uncommon, 伤害7/打2下): Deal 7 damage to a random enemy twice.

@@ -1,0 +1,126 @@
+# Monsters
+
+- **Assassin Raider** (Normal, HP 18-23): Killshot
+- **Axe Raider** (Normal, HP 20-22): Swing 1, Swing 2, Big Swing
+- **Axebot** (Normal, HP 40-44): Boot Up, The One-Two, Sharpen, Hammer Uppercut
+- **Battle Friend V1.0** (Normal, HP 75-75): Nothing
+- **Battle Friend V2.0** (Normal, HP 150-150): Nothing
+- **Battle Friend V3.0** (Normal, HP 300-300): Nothing
+- **Bowlbug (Egg)** (Normal, HP 21-22): Bite
+- **Bowlbug (Nectar)** (Normal, HP 35-38): Thrash, Buff, Thrash
+- **Bowlbug (Rock)** (Normal, HP 45-48): Headbutt, Dizzy
+- **Bowlbug (Silk)** (Normal, HP 40-43): Trash, Toxic Spit
+- **Brute Raider** (Normal, HP 30-33): Beat, Roar
+- **Bygone Effigy** (Elite, HP 127-None): Initial Sleep, Wake, Sleep, Slashes
+- **Byrdonis** (Elite, HP 91-94): Peck, Swoop
+- **Byrdpip** (Normal, HP 9999-9999): Nothing
+- **Calcified Cultist** (Normal, HP 38-41): Incantation, Dark Strike
+- **Ceremonial Beast** (Boss, HP 252-None): Stamp, Plow, Stun, Beast Cry, Stomp, Crush
+- **Chomper** (Normal, HP 60-64): Clamp, Screech
+- **Corpse Slug** (Normal, HP 25-27): Whip Slap, Glomp, Goop
+- **Crossbow Raider** (Normal, HP 18-21): Fire!, Reload
+- **Crusher** (Boss, HP 199-None): Thrash, Enlarging Strike, Bug Sting, Adapt, Guarded Strike
+- **Cubex Construct** (Normal, HP 65-None): Charge Up, Repeater, Repeater Move 2, Expel Blast, Submerge
+- **Damp Cultist** (Normal, HP 51-53): Incantation, Dark Strike
+- **Decimillipede** (Normal, HP 42-48): Writhe, Bulk, Constrict, Dead, Reattach
+- **Devoted Sculptor** (Normal, HP 162-None): Forbidden Incantation, Savage
+- **Door** (Boss, HP 155-None): Dramatic Open, Enforce, Door Slam, Dead
+- **Doormaker** (Boss, HP 489-None): What Is It, Beam, Get Back In
+- **Entomancer** (Elite, HP 145-None): Pheromone Spit, Beeeees!, Spear!
+- **Exoskeleton** (Normal, HP 24-28): Skitter, Mandible, Enrage
+- **Eye With Teeth** (Normal, HP 6-None): Distract
+- **Fabricator** (Normal, HP 150-None): Fabricate, Fabricating Strike, Disintegrate
+- **Fat Gremlin** (Normal, HP 13-17): Spawned, Flee
+- **Flail Knight** (Elite, HP 101-None): War Chant, Flail, Ram
+- **Flyconid** (Normal, HP 47-49): Vulnerable Spores, Frail Spores, Smash
+- **Fogmog** (Normal, HP 74-None): Illusion, Swipe, Swipe Random, Headbutt
+- **Fossil Stalker** (Normal, HP 51-53): Tackle, Latch, Lash
+- **Frog Knight** (Normal, HP 191-None): For the Queen, Strike Down Evil, Tongue Lash, Beetle Charge
+- **Fuzzy Wurm Crawler** (Normal, HP 55-57): First Acid Goop, Acid Goop, Inhale
+- **Gas Bomb** (Normal, HP 10-None): Explode
+- **Globe Head** (Normal, HP 148-None): Thunder Strike, Shocking Slap, Galvanic Burst
+- **Gremlin Merc** (Normal, HP 47-49): Gimme, Double Smash, Hehe
+- **Guardbot** (Normal, HP 21-25): Guard
+- **Haunted Ship** (Normal, HP 63-None): Ramming Speed, Swipe, Stomp, Haunt
+- **Hunter Killer** (Normal, HP 121-None): Tenderizing Goop, Bite, Puncture
+- **Infested Prism** (Elite, HP 200-None): Jab, Radiate, Whirlwind, Pulsate
+- **Inklet** (Normal, HP 11-17): Jab, Whirlwind, Piercing Gaze
+- **Kin Follower** (Boss, HP 58-59): Quick Slash, Boomerang, Power Dance
+- **Kin Priest** (Boss, HP 190-None): Orb Of Frailty, Orb Of Weakness, Beam, Ritual
+- **Knowledge Demon** (Boss, HP 379-None): Curse of Knowledge, Slap, Knowledge Overwhelming, Ponder
+- **Lagavulin Matriarch** (Boss, HP 222-None): Sleep, Slash, Slash2, Disembowel, Soul Siphon
+- **Leaf Slime (M)** (Normal, HP 32-35): Clump Shot, Sticky Shot
+- **Leaf Slime (S)** (Normal, HP 11-15): Butt, Goop
+- **Living Fog** (Normal, HP 80-None): Advanced Gas, Bloat, Super Gas Blast
+- **Living Shield** (Normal, HP 55-None): Shield Slam, Smash
+- **Louse Progenitor** (Normal, HP 134-136): Web Cannon, Pounce, Curl and Grow
+- **Magi Knight** (Elite, HP 82-None): First Power Shield, Dampen, Prep, Magic Bomb, Ram
+- **Mawler** (Normal, HP 72-None): Rip and Tear, Roar, Claw
+- **Mecha Knight** (Elite, HP 300-None): Charge, Flamethrower, Windup, Heavy Cleave
+- **Myte** (Normal, HP 61-67): Toxic Cornucopia, Bite, Suck
+- **Nibbit** (Normal, HP 42-46): Butt, Slice, Hiss
+- **Noisebot** (Normal, HP 23-28): Noise
+- **Osty** (Normal, HP 1-1): Nothing
+- **Ovicopter** (Normal, HP 124-130): Lay Eggs, Smash, Tenderizer, Nutritional Paste
+- **Owl Magistrate** (Normal, HP 234-None): Magistrate Scrutiny, Peck Assault, Judicial Flight, Verdict
+- **Pael's Legion** (Normal, HP 9999-9999): Nothing
+- **Parafright** (Normal, HP 21-None): Slam
+- **Phantasmal Gardener** (Elite, HP 28-32): Bite, Lash, Flail, Enlarge
+- **Phrog Parasite** (Elite, HP 61-64): Infect, Lash
+- **Punch Construct** (Normal, HP 55-None): READY, Strong Punch, Fast Punch
+- **Queen** (Boss, HP 400-None): Puppet Strings, Your Mine, Burn Bright for Me, Off with Your Head, Execution, Enrage
+- **Rocket** (Boss, HP 189-None): Targeting Reticle, Precision Beam, Charge Up, Laser, Recharge
+- **Scroll of Biting** (Normal, HP 31-38): Chomp, Chew, More Teeth
+- **Seapunk** (Normal, HP 44-46): Sea Kick, Spinning Kick, Bubble Burp
+- **Sewer Clam** (Normal, HP 56-None): Pressurize, Jet
+- **Shrinker Beetle** (Normal, HP 38-40): Shrinker, Chomp, Stomp
+- **Skulking Colony** (Elite, HP 79-None): Inertia, Zoom, Super Crab, Smash
+- **Slimed Berserker** (Normal, HP 266-None): Vomit Ichor, Leeching Hug, Smother, Furious Pummeling
+- **Slithering Strangler** (Normal, HP 53-55): Constrict, Twack, Lash
+- **Sludge Spinner** (Normal, HP 37-39): Oil Spray, Slam, Rage
+- **Slumbering Beetle** (Normal, HP 86-None): Snore, Roll Out
+- **Snapping Jaxfruit** (Normal, HP 31-33): Energy Orb
+- **Sneaky Gremlin** (Normal, HP 10-14): Spawned, Tackle
+- **Soul Fysh** (Boss, HP 211-None): Beckon, De-Gas, Gaze, Fade, Scream
+- **Soul Nexus** (Elite, HP 234-None): Soul Burn, Maelstrom, Drain Life
+- **Spectral Knight** (Elite, HP 93-None): Hex, Soul Slash, Soul Flame
+- **Spiny Toad** (Normal, HP 116-119): Protruding Spikes, Spike Explosion, Tongue Lash
+- **Stabbot** (Normal, HP 23-28): Stab
+- **Terror Eel** (Elite, HP 140-None): Crash, Thrashmove, Stun, Terror
+- **Test Subject #C{Count}** (Boss, HP None-None): Respawn, Bite, Skull Bash, Pounce, Multi Claw, Phase3 Lacerate
+- **The Adversary Mk 1** (Normal, HP 100-None): Smash, Beam, Barrage
+- **The Adversary Mk 2** (Normal, HP 200-None): Bash, Flame Beam, Barrage
+- **The Adversary Mk 3** (Normal, HP 300-None): Crash, Flame Beam, Barrage
+- **The Architect** (Normal, HP 9999-9999): Nothing
+- **The Forgotten** (Normal, HP 106-None): Miasma, Dread
+- **The Insatiable** (Boss, HP 321-None): Liquify Ground, Thrash Move 1, Thrash Move 2, Lunging Bite, Salivate
+- **The Lost** (Normal, HP 93-None): Debilitating Smog, Eye Lasers
+- **The Obscura** (Normal, HP 123-None): Illusion, Piercing Gaze, Sail, Hardening Strike
+- **Thieving Hopper** (Normal, HP 79-None): Thievery, Nab, Hat Trick, Flutter, Escape
+- **Toadpole** (Normal, HP 21-25): Spike Spit, Whirl, Spiken
+- **Torch Head Amalgam** (Boss, HP 199-None): Tackle 1, Tackle 2, Beam, Tackle 3, Tackle 4
+- **Tough Egg** (Normal, HP 14-18): HATCH, Nibble
+- **Tracker Raider** (Normal, HP 21-25): Track, Unleash the Hounds
+- **Tunneler** (Normal, HP 87-None): Bite, Burrow, Below Move 1, Dizzy
+- **Turret Operator** (Normal, HP 41-None): Unload Move 1, Unload Move 2, Reload
+- **Twig Slime (M)** (Normal, HP 26-28): Clump Shot, Sticky Shot
+- **Twig Slime (S)** (Normal, HP 7-11): Butt
+- **Two-Tailed Rat** (Normal, HP 17-21): Scratch, Disease Bite, Screech, Call for Backup
+- **Vantom** (Boss, HP 173-None): Ink Blot, Inky Lance, Dismember, Prepare
+- **Vine Shambler** (Normal, HP 61-None): Grasping Vines, Swipe, Chomp
+- **Waterfall Giant** (Boss, HP 250-None): Pressurize, Stomp, Ram, Siphon, Pressure Gun, Pressure Up
+- **Wriggler** (Elite, HP 17-21): Nasty Bite, Wriggle, Spawned
+- **Zapbot** (Normal, HP 23-28): Zap
+
+## Hive 实测与数据核对（2026-08-08）
+
+数据源：模组 monsters.json / powers.json + 本局实战。
+
+- **地道虫 Tunneler**（87HP）：Bite 13（A+15）、Burrow 防御（实测 +32 格挡）、Below 23（A+26）、Dizzy 眩晕。它防御/发呆的回合白嫖输出，别浪费伤害打它的甲。
+- **外骨骼虫 Exoskeleton**（24-28HP）：Skitter 多段、Mandible 8（A+9）、Enrage 加攻。**被动 Hard To Kill：单次受到的伤害上限 9**——破击 20 只打 9，多段攻击（双重打击+）反而收益更高。
+- **棘刺蟾蜍 Spiny Toad**（116-119HP）：Protruding Spikes 上荆棘 5，Spike Explosion 23（A+25），Tongue Lash 17（A+19）。有刺时每打一下反 5 血，少打多防、只打单发大牌。
+- **胧光怪 The Obscura**（123HP）：Illusion 召唤「寄生惧魔」（21HP，Slam 16），Piercing Gaze 10（A+11），Sail 叠力量，Hardening Strike 6（A+7）+防御。小怪带 IllusionPower（死后下回合满血复活）——**别跟小怪缠斗，杀本体**。
+- **盛碗虫 Bowlbug**：Rock（45-48）Headbutt 15（A+16），**被动 Imbalanced：攻击被完全格挡会眩晕**（血墙 16 挡 15 直接把它打晕）；Silk（40-43）Trash 4（A+5）×2 + Toxic Spit；Nectar（35-38）Thrash 3、Buff、Thrash2。
+- **残杀千足虫 Decimillipede**（3 段 42-48）：Writhe 5（A+6）×2、Bulk 6（A+7）+Buff、Constrict 8（A+9）+Debuff。**被动 Reattach：只要还有其它节段存活，死后 2 回合以 25HP 复活**——所以必须把所有节段压到低血、同一回合全杀；实测一节一节杀会越杀越多。
+- **感染棱柱 Infested Prism**（200HP）：Jab 22（A+24）、Radiate 16（A+18）+防御、Whirlwind 9（A+10）×N、Pulsate 攻击+Buff+防御。**被动 Vital Spark：每回合第一次被攻击时，攻击者 +1 能量**——每回合先打它一下白嫖能量；打技能会给玩家叠 2 层污染（往手牌塞垃圾）。
+- **吞噬者 The Insatiable**（321HP）：Liquify Ground=给自己 4 层沙坑+往抽牌堆/弃牌堆各塞 3 张「狂乱逃离」，Thrash1/2=8（A+9）×2 段（实测随力量成长到 20+），Lunging Bite 28（A+31），Salivate=叠力量。**沙坑每回合 -1，归零即被吞噬（即死）**；「狂乱逃离」打出后沙坑 +1 续命、自身费用 +1。**打不打看斩杀线**：能按时斩杀就不打，需要拖回合才打，且趁费用便宜时早打。Boss 越拖越痛，牌库要薄、过牌要快，速战速决。
