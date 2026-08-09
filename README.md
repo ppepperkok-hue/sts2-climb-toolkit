@@ -26,7 +26,7 @@ sts2-climb-toolkit/
         └── STS2AIAgent.zip   # mod 分发包（作者 CharTyr，个人备份用）
 ```
 
-## 怎么用（新机器恢复三步）
+## 怎么用
 
 前置：已安装 Steam 版《杀戮尖塔 2》。
 
