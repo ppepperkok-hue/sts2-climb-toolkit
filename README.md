@@ -1,5 +1,12 @@
 # STS2 Climb Toolkit
 
+<!-- moe-counter:start -->
+<p align="center">
+  <a href="https://github.com/journey-ad/Moe-Counter"><img src="https://count.getloli.com/get/@ppepperkok-hue.sts2-climb-toolkit?theme=asoul" alt="README views" width="360" /></a>
+  <br /><sub>README views · Image requests, not unique visitors.</sub>
+</p>
+<!-- moe-counter:end -->
+
 《杀戮尖塔 2》（Slay the Spire 2）AI 爬塔工具集。这套东西让 Codex 通过本地 HTTP API 直接操控游戏爬塔，同时附带一份完整的爬塔知识库（卡牌、敌人、遗物、路线、复盘教训）。
 
 ## 这是什么
