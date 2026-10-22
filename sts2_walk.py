@@ -1,7 +1,8 @@
 import json
 import sys
+from pathlib import Path
 
-sys.path.insert(0, r"C:\Users\Administrator\Documents\Codex\2026-08-08\files-mentioned-by-the-user-109876624")
+sys.path.insert(0, str(Path(__file__).resolve().parent))
 from sts2_helper import req
 
 

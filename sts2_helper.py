@@ -4,6 +4,85 @@ import urllib.request
 
 BASE = "http://127.0.0.1:8080"
 
+USAGE = """usage:
+  python sts2_helper.py state
+  python sts2_helper.py map
+  python sts2_helper.py act <action> [--index N] [--target N]"""
+
+# Action names accepted by the mod's POST /action dispatch (plus names exposed by
+# GameStateService). Bare invocation is kept for compatibility, so unknown bare
+# words must be rejected locally instead of being sent as game actions.
+KNOWN_ACTIONS = frozenset(
+    {
+        "abandon_run",
+        "buy_card",
+        "buy_potion",
+        "buy_relic",
+        "choose_bundle",
+        "choose_capstone_option",
+        "choose_event_option",
+        "choose_map_node",
+        "choose_rest_option",
+        "choose_reward_card",
+        "choose_timeline_epoch",
+        "choose_treasure_relic",
+        "claim_reward",
+        "close_cards_view",
+        "close_main_menu_submenu",
+        "close_shop_inventory",
+        "collect_rewards_and_proceed",
+        "confirm_bundle",
+        "confirm_modal",
+        "confirm_selection",
+        "confirm_timeline_overlay",
+        "continue_run",
+        "decrease_ascension",
+        "discard_potion",
+        "disconnect_multiplayer_lobby",
+        "dismiss_modal",
+        "embark",
+        "end_turn",
+        "host_multiplayer_lobby",
+        "increase_ascension",
+        "join_multiplayer_lobby",
+        "open_character_select",
+        "open_chest",
+        "open_shop_inventory",
+        "open_timeline",
+        "play_card",
+        "proceed",
+        "ready_multiplayer_lobby",
+        "remove_card_at_shop",
+        "resolve_rewards",
+        "return_to_main_menu",
+        "run_console_command",
+        "save_and_quit",
+        "select_character",
+        "select_deck_card",
+        "skip_reward_cards",
+        "unready",
+        "use_potion",
+    }
+)
+
+
+def usage_error(message):
+    print(f"error: {message}", file=sys.stderr)
+    print(USAGE, file=sys.stderr)
+    raise SystemExit(2)
+
+
+def parse_index(flag, value):
+    # The mod uses a missing (null) field for "no index/target"; negative values
+    # are out of range (409 invalid_target / card_index is out of range), not sentinels.
+    try:
+        parsed = int(value)
+    except ValueError:
+        usage_error(f"{flag} expects an integer, got {value!r}")
+    if parsed < 0:
+        usage_error(f"{flag} expects a non-negative integer, got {value!r}")
+    return parsed
+
 
 def req(method, path, payload=None):
     data = json.dumps(payload).encode("utf-8") if payload is not None else None
@@ -137,26 +216,49 @@ def show_map(state):
 def main():
     args = sys.argv[1:]
     if not args:
-        print("usage: state | act <action> [--index N] [--target N]")
+        usage_error("missing command")
+    if args[0] in ("-h", "--help", "help"):
+        print(USAGE)
         return
     if args[0] == "state":
+        if len(args) > 1:
+            usage_error(f"unexpected argument: {args[1]}")
         data = req("GET", "/state")
         print(json.dumps(compact(data), ensure_ascii=False, indent=2))
         return
     if args[0] == "map":
+        if len(args) > 1:
+            usage_error(f"unexpected argument: {args[1]}")
         data = req("GET", "/state")
         show_map(data)
         return
-    action = args[1]
+    if args[0] in ("act", "action"):
+        if len(args) < 2 or args[1].startswith("-"):
+            usage_error("missing action for 'act'")
+        action = args[1]
+        rest = args[2:]
+    else:
+        action = args[0]
+        if action not in KNOWN_ACTIONS:
+            usage_error(f"unknown command or action: {action!r}")
+        rest = args[1:]
     index = None
     target = None
-    rest = args[2:]
     while rest:
         flag = rest.pop(0)
-        if flag == "--index":
-            index = int(rest.pop(0))
-        elif flag == "--target":
-            target = int(rest.pop(0))
+        if flag in ("--index", "--target"):
+            if not rest:
+                usage_error(f"{flag} requires a value")
+            value = parse_index(flag, rest.pop(0))
+            if flag == "--index":
+                index = value
+            else:
+                target = value
+        elif flag in ("-h", "--help"):
+            print(USAGE)
+            return
+        else:
+            usage_error(f"unexpected argument: {flag}")
     payload = {
         "action": action,
         "card_index": index if action in ("play_card",) else None,

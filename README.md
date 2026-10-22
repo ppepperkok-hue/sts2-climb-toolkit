@@ -25,6 +25,7 @@
 sts2-climb-toolkit/
 ├── sts2_helper.py            # API 客户端：请求游戏状态、下发动作
 ├── sts2_walk.py              # 遍历 /state 返回结构，排查字段用的
+├── sky_probe.mjs             # 本地诊断：探测 Codex 私有 sky 模块（非爬塔必需）
 ├── GameStateService.cs       # 从 mod 提取的状态服务源码（研究用，C#/Godot）
 ├── skills/
 │   └── sts2-climber/         # Codex skill：爬塔知识库 + 操作手册 + 复盘
@@ -50,14 +51,19 @@ sts2-climb-toolkit/
 
 ```bash
 python sts2_helper.py state      # 看当前状态
-python sts2_helper.py action     # 交互式下发动作（脚本内有示例）
+python sts2_helper.py map        # 打印地图格子与可走节点
+python sts2_helper.py act end_turn                       # 下发动作
+python sts2_helper.py act play_card --index 0 --target 0 # 带索引/目标
 python sts2_walk.py              # 遍历状态里的消耗牌堆等字段
 ```
+
+`sts2_helper.py` 的参数缺失或非法时会打印用法并以状态码 2 退出，不会抛 traceback。
 
 具体动作协议（出牌、选卡、SL、结束回合）都写进了 `skills/sts2-climber/references/agent-integration.md`，忘细节时去翻那份。
 
 ## 备注
 
 - `STS2AIAgent.zip` 版权归原作者 CharTyr 所有，本仓库仅作个人备份与恢复用途。
+- `sky_probe.mjs` 只是本地诊断脚本，不是爬塔必需流程。它依赖 OpenAI Codex 安装包内的私有模块 `@oai/sky`；本仓库不附带该模块，也没有公开替代实现。运行时把 `CODEX_SKY_ENTRY` 指向本机 Codex 安装中的 `.../@oai/sky/dist/.../index.js`（绝对路径或 `file://` URL）；未设置时脚本会打印说明并以状态码 2 退出。
 - 本仓库只收录与爬塔相关的内容；人格配置、记忆库等个人资产不在这里。
 
