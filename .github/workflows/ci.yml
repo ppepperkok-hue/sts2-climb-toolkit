@@ -1,0 +1,58 @@
+# Offline CI for the STS2 climb toolkit.
+#
+# Scope note: this job runs the standard-library unittest suite, byte-compiles the
+# Python modules and syntax-checks the Node probe. It does NOT compile
+# GameStateService.cs (that needs the Godot/StS2 assemblies, which are not in this
+# repository) and it does NOT execute sky_probe.mjs (it imports OpenAI Codex's private
+# @oai/sky module). No game, mod or local API at 127.0.0.1:8080 is contacted; the tests
+# start their own throwaway HTTP server on an ephemeral loopback port.
+name: CI
+
+on:
+  push:
+    branches: [master]
+  pull_request:
+    branches: [master]
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  checks:
+    name: stdlib tests and syntax checks (Python 3.11, Node 22)
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v6
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.11"
+
+      - name: Compile check (Python)
+        run: |
+          python -m py_compile \
+            sts2_helper.py sts2_walk.py distill_sts2.py tests/test_sts2_helper.py
+
+      # 10 unittest cases, standard library only. Python 3.11's unittest exits 0 even
+      # when discovery finds nothing, so the grep is what keeps a zero-test run from
+      # going green.
+      - name: Unit tests (unittest discovery)
+        shell: bash
+        run: |
+          set -euo pipefail
+          python -m unittest discover -s tests -v 2>&1 | tee unittest.log
+          grep -Eq '^Ran [1-9][0-9]* test' unittest.log
+
+      # Pinned instead of trusting the runner image's preinstalled Node, so a syntax
+      # error cannot surface (or disappear) because of an image update.
+      - uses: actions/setup-node@v7
+        with:
+          node-version: "22"
+
+      - name: Node syntax check (sky_probe.mjs)
+        run: node --check sky_probe.mjs
